@@ -13,9 +13,9 @@ title                    : "Yuchen / Site Title"
 title_separator          : "-"
 name                     : &name "Yuchen"
 description              : &description "Hello everyone, I’m Xiong Yuchen, currently pursuing a Master’s degree in Cultural and Creative Industries at King’s College London. I hold a Bachelor of Arts in Fashion Design from Soochow University in China. I was born in China and currently live in London, UK.I am currently writing a novel and plan to work in the writing or design industry in the future. I welcome everyone to connect with me, especially those who love literature, film, theater, and David Hume‘s philosophy. I trust in empiricism, which is why I plan to use quantitative methods in my dissertation. If you have expertise in this area, I would love to connect and exchange ideas with you! I welcome all people and new things, and I’m happy to answer any questions you may have."
-url                      : https://yuchenx.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://yuchen2402.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuchenx.github.io"
+repository               : "yuchen2402.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
