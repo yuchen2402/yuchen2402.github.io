@@ -5,23 +5,14 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
+  - title: "Fiction 小說"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Prose 散文"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Poetry 詩歌"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Academic Paper 學術文章"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
