@@ -6,13 +6,16 @@
 
 main:
   - title: "Fiction 小說"
-    url: /publications/
+    url: /fiction/
 
   - title: "Prose 散文"
-    url: /talks/    
+    url: /prose/    
 
   - title: "Poetry 詩歌"
-    url: /teaching/    
+    url: /poetry/    
     
   - title: "Academic Paper 學術文章"
-    url: /portfolio/
+    url: /academic/
+
+  - title: "CV 簡歷"
+    url: /cv/
