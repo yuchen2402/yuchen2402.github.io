@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yuchen / Site Title"
+title                    : "Yuchen Xiong 熊羽辰"
 title_separator          : "-"
-name                     : &name "Yuchen"
-description              : &description "Hello everyone, I’m Xiong Yuchen, currently pursuing a Master’s degree in Cultural and Creative Industries at King’s College London. I hold a Bachelor of Arts in Fashion Design from Soochow University in China. I was born in China and currently live in London, UK.I am currently writing a novel and plan to work in the writing or design industry in the future. I welcome everyone to connect with me, especially those who love literature, film, theater, and David Hume‘s philosophy. I trust in empiricism, which is why I plan to use quantitative methods in my dissertation. If you have expertise in this area, I would love to connect and exchange ideas with you! I welcome all people and new things, and I’m happy to answer any questions you may have."
+name                     : &name "Yuchen 羽辰"
+description              : &description "someone who writes words"
 url                      : https://yuchen2402.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuchen2402.github.io"
@@ -23,13 +23,10 @@ repository               : "yuchen2402.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuchen Xiong 熊羽辰"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master in King's College London; Bachelor in Soochow University"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
