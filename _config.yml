@@ -185,16 +185,16 @@ kramdown:
 Works Collection:
   Fiction 小說:
     output: true
-    permalink: /:collection/:path/
+    permalink: /fiction/:path/
   Prose 散文:
     output: true
-    permalink: /:collection/:path/
+    permalink: /prose/:path/
   Poetry 詩歌:
     output: true
-    permalink: /:collection/:path/
+    permalink: /poetry/:path/
   Academic Papers 學術文章:
     output: true
-    permalink: /:collection/:path/
+    permalink: /academic/:path/
 
 
 # These settings control how pages and collections are included in the site
