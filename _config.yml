@@ -48,11 +48,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 Fiction 小說_category:
   Short Stories 短篇小說:
-    title: 'Books'
+    title: 'Short Stories 短篇小說'
   Novellas 中篇小說:
-    title: 'Journal Articles'    
+    title: 'Novellas 中篇小說'    
   Novels 長篇小說:
-    title: 'Conference Papers'
+    title: 'Novels 長篇小說'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
