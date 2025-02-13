@@ -1,14 +1,15 @@
 ---
 title: "He always waited for the same train."
-collection: Fiction 短篇小說
-category: Novels
-permalink: /fiction/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+collection: fiction
+category: novels
+permalink: /fiction/he-always-waited-for-the-same-train/
+excerpt: "A man always waits for the same train, hoping to see someone who never returns."
 date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://yuchen2402.github.io/files/slides1.pdf'
-paperurl: 'http://yuchen2402.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+author_profile: true
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+He always waited for the same train.
+
+Every evening, he stood on the platform, his hands tucked into the pockets of his brown coat, eyes scanning the crowd. The train arrived, people came and went, but the one he longed to see never appeared.
+
+Yet, he waited.
