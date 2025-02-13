@@ -46,12 +46,12 @@ author:
   linkedin         : # Username
 
 # fiction_category - The following the list of fiction categories and their headings
-Fiction_category:
-  short_stories_短篇小說:
+fiction_category:
+  short_stories:
     title: 'Short Stories 短篇小說'
-  novellas_中篇小說:
+  novellas:
     title: 'Novellas 中篇小說'    
-  novels_長篇小說:
+  novels:
     title: 'Novels 長篇小說'
 
 # Site Settings
@@ -182,7 +182,7 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
-Collections:
+collections:
   fiction:
     output: true
     permalink: /fiction/:path/
