@@ -1,7 +1,7 @@
 ---
 title: "He always waited for the same train."
 collection: Fiction 短篇小說
-category: manuscripts
+category: Novels
 permalink: /fiction/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
