@@ -45,13 +45,13 @@ author:
   instagram        : # Username
   linkedin         : # Username
 
-# Fiction Category - The following the list of fiction categories and their headings
+# fiction_category - The following the list of fiction categories and their headings
 Fiction_category:
-  Short Stories 短篇小說:
+  short_stories_短篇小說:
     title: 'Short Stories 短篇小說'
-  Novellas 中篇小說:
+  novellas_中篇小說:
     title: 'Novellas 中篇小說'    
-  Novels 長篇小說:
+  novels_長篇小說:
     title: 'Novels 長篇小說'
 
 # Site Settings
@@ -182,17 +182,17 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
-Works Collection:
-  Fiction 小說:
+Collections:
+  fiction:
     output: true
     permalink: /fiction/:path/
-  Prose 散文:
+  prose:
     output: true
     permalink: /prose/:path/
-  Poetry 詩歌:
+  poetry:
     output: true
     permalink: /poetry/:path/
-  Academic Papers 學術文章:
+  academic Papers 學術文章:
     output: true
     permalink: /academic/:path/
 
