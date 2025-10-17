@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Critical Essays 學術隨筆"
+subtitle: "Personal reflections and critical writings beyond coursework essays."
 permalink: /criticalessays/
 author_profile: true
 ---
