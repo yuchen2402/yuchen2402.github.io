@@ -2,7 +2,7 @@
 title: "Streaming the Stage: Rethinking Liveness in the Age of Digital Platforms"
 excerpt: "Originally developed as a course video essay for the MA module on Digital Culture and Creative Industries (King’s College London, 2024). This essay examines how digital platforms such as Digital Theatre and Globe Player reconfigure theatrical liveness and creative work."
 permalink: /coursepaper/video/
-date: 2025-05-12
+date: 2025-05-26
 author_profile: true
 layout: single
 ---
