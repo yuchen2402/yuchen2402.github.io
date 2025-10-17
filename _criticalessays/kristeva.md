@@ -1,7 +1,7 @@
 ---
 title: "The Rift Between Poetry and the Novel: Language and the Symbolic Order in a Depressive Context through Kristeva’s Theory"
 excerpt: "The essay argues that, in Kristeva’s theory, poetry’s fluid and deconstructive language opens a path for transforming loss and depression, whereas the novel’s rigid symbolic unity reinforces emotional stagnation and the illusion of wholeness."
-permalink: /criticalessays/piano/
+permalink: /criticalessays/kristeva/
 date: 2025-02-23
 author_profile: true
 layout: single
