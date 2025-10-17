@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: Critical Essays 学术随笔
 permalink: /criticalessays/
 author_profile: true
 ---
