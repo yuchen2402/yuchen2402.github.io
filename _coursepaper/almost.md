@@ -1,6 +1,6 @@
 ---
 title: "Restorative Dreams, Reflective Realities: The Politics of Nostalgia in Hong Kong Film"
-excerpt: "**Abstract: **This paper explores restorative and reflective nostalgia in _Comrades: Almost a Love Story_ (1996) and _Made in Hong Kong_ (1997), drawing on Svetlana Boym’s theory to examine how both films construct and critique historical memory around the 1997 Handover. It argues that Hong Kong’s nostalgic cinema functions simultaneously as emotional refuge and cultural critique, revealing the city’s political and psychological anxieties amid transition."
+excerpt: "Abstract: This paper explores restorative and reflective nostalgia in _Comrades: Almost a Love Story_ (1996) and _Made in Hong Kong_ (1997), drawing on Svetlana Boym’s theory to examine how both films construct and critique historical memory around the 1997 Handover. It argues that Hong Kong’s nostalgic cinema functions simultaneously as emotional refuge and cultural critique, revealing the city’s political and psychological anxieties amid transition."
 date: 2025-01-08
 author_profile: true
 layout: single
@@ -32,12 +32,12 @@ From a critical perspective, restorative nostalgia represents not only romantic 
 <div style="margin-left: 2em;">
 This ‘textuality’ […] is precisely the most telling symptom of the waning of historicity in our time. […] The new aesthetic mode, with all its internal contradictions, reflects the immense contradictions of our present historical condition. The deepening of aesthetic contradictions signifies our growing inability to reflect and represent our concrete experiences of the present era through cultural forms. (Jameson, 1997, pp. 456, 462)
 </div>
-
+<br>
 In this context, nostalgic films like Comrades: Almost a Love Story (1996) do not engage with history as a lived reality but rather as a fragmented and aestheticized memory that caters to the audience’s emotional needs. Li and Wang (1998), in their discussion of Hong Kong films Peking Opera Blues (1986) and Rouge (1988), criticized that:
 <div style="margin-left: 2em;">
 Nostalgic films attempt to reconstruct a specific cultural experience of a period rather than return to a specific historical context. Nostalgia is not genuinely interested in the past; instead, it seeks to simulate and express a certain mindset of modern individuals, using nostalgia as a means to satisfy this mindset. (Li and Wang, 1998, p. 37)
 </div>
-
+<br>
 In the postmodern condition, characterized by a lack of temporal and spatial depth and a flattened sense of reality, nostalgic imagery is merely a series of consumer products synthesized through music, fashion, hairstyles, and vehicle designs. These images serve to supply a historically detached audience with consumable representations of history. The nostalgic narrative of Comrades: Almost a Love Story (1996) centers on emotions, simplifying and idealizing the past to provide temporary solace rather than addressing the identity crisis at its core. This highlights the limitation of restorative nostalgia: although its utopian narrative alleviates social anxiety, it may obscure critical reflections on historical complexity, thereby becoming an obstacle to progress.
 
 
@@ -74,7 +74,7 @@ Although the two forms of nostalgia differ, they are not mutually exclusive, jus
 <div style="margin-left: 2em;">
 While restorative nostalgia returns and rebuilds one’s homeland with paranoid determination, reflective nostalgia fears return with the same passion. Home, after all, is not a gated community. Paradise on earth might turn out to be another Potemkin village with no exit. The imperative of a contemporary nostalgic: to be homesick and to be sick of being at home—occasionally at the same time. (Boym, 2001, p. 41)
 </div>
-
+<br>
 In their respective contexts, these two forms of nostalgia give a "voice" to the suppressed subjectivity in the historical narratives of Hong Kong, awakening a sense of social belonging and a pursuit of cultural identity.
 
 
