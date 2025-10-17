@@ -16,13 +16,20 @@ layout: default
   {% include sidebar.html %}
 
   <div class="archive">
-    {%- comment -%}
-    ✅ 僅保留黑色標題，不顯示任何重複的藍色或灰色副標題
-    {%- endcomment -%}
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
 
-    {{ content }}
+    {% assign current_path = page.url | replace: '/index.html', '' %}
+    {% if current_path == '/criticalessays' or current_path == '/criticalessays/' %}
+      <!-- 顯示內容但只渲染一次灰色說明 -->
+      {% if page.content contains '<p' %}
+        {{ page.content | split: '</p>' | slice: 1, 10 | join: '</p>' }}
+      {% else %}
+        {{ content }}
+      {% endif %}
+    {% else %}
+      {{ content }}
+    {% endif %}
   </div>
 </div>
