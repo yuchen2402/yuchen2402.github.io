@@ -16,26 +16,13 @@ layout: default
   {% include sidebar.html %}
 
   <div class="archive">
+    {%- comment -%}
+    ✅ 僅保留黑色標題，不顯示任何重複的藍色或灰色副標題
+    {%- endcomment -%}
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
 
-    {%- comment -%}
-      ✅ 以下是关键逻辑：
-      如果当前页面属于一个集合（如 _criticalessays），
-      且该集合名与标题相同（即 Critical Essays），
-      就不要再显示重复标题。
-    {%- endcomment -%}
-    {% if page.collection %}
-      {% assign collection_label = site[page.collection].label | default: page.collection %}
-      {% if collection_label == page.title %}
-        {{ content }}
-      {% else %}
-        <h2 class="archive__subtitle">{{ collection_label }}</h2>
-        {{ content }}
-      {% endif %}
-    {% else %}
-      {{ content }}
-    {% endif %}
+    {{ content }}
   </div>
 </div>
