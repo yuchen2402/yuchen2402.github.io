@@ -1,6 +1,6 @@
 ---
 title: "The Temptation of the Land: Women and the Male Gaze in _The Legend of 1900_"
-collection: Academic Essays
+collection: coursepaper
 category: Essays
 permalink: /coursepaper/the-legend-of-1900/
 excerpt: "In The Legend of 1900, the female figure becomes a silent symbol of temptation and absence, her image shaped entirely through the lens of the male gaze."
