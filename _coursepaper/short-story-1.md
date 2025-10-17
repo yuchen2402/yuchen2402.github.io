@@ -6,6 +6,7 @@ date: 2025-05-17
 author_profile: true
 layout: single
 ---
+
 **Introduction**
 
 Herstory (2024) is a romantic drama written and directed by Shao Yihui (Douban, n.d.). The film premiered on November 22, 2024, at the Golden Rooster and Hundred Flowers Film Festival in China (Douban, n.d.). It achieved remarkable commercial success, grossing 700 million RMB within a month of release (HerStoryFilm, 2024). 
