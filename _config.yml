@@ -45,10 +45,10 @@ author:
   instagram        : # Username
   linkedin         : # Username
 
-# fiction_category - The following the list of fiction categories and their headings
-fiction_category:
+# course paper_category - The following the list of course paper categories and their headings
+coursepaper_category:
   short_stories:
-    title: 'Short Stories 短篇小說'
+    title: 'The Temptation of the Land: Women and the Male Gaze in The Legend of 1900'
   novellas:
     title: 'Novellas 中篇小說'    
   novels:
@@ -183,6 +183,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  coursepaper:
+    output: true
+    permalink: /coursepaper/:path/
   fiction:
     output: true
     permalink: /fiction/:path/
