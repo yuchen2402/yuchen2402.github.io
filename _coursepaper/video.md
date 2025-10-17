@@ -1,6 +1,6 @@
 ---
 title: "Streaming the Stage: Rethinking Liveness in the Age of Digital Platforms"
-excerpt: "Abstract: This essay examines how digital platforms such as Digital Theatre and Globe Player reshape theatrical liveness and cultural production in post-pandemic contexts. Drawing on theories of mediatization and platformization, it analyses how streaming infrastructures reconfigure performance into digital artefacts, transforming both spectatorship and creative labour. _(Originally developed as a coursework video essay for the MA module “Analysing the CCIs: Policies, Creativity, Labour” King’s College London, 2025.)_"
+excerpt: "Abstract: This essay examines how digital platforms such as Digital Theatre and Globe Player reshape theatrical liveness and cultural production in post-pandemic contexts. Drawing on theories of mediatization and platformization, it analyses how streaming infrastructures reconfigure performance into digital artefacts, transforming both spectatorship and creative labour. (Originally developed as a coursework video essay for the MA module “_Analysing the CCIs: Policies, Creativity, Labour_” King’s College London, 2025.)"
 permalink: /coursepaper/video/
 date: 2025-05-26
 author_profile: true
