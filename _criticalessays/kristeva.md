@@ -16,3 +16,9 @@ Taken together, Kristeva’s reflections on these two literary forms reveal two 
 The novel, on the other hand, tends to reproduce and reinforce the existing symbolic order, sustaining a false sense of cultural coherence. This rigidity constrains the articulation of deep loss and psychic trauma, potentially trapping the subject in depression—unable to reimagine or translate the Other.
 
 As Kristeva’s theoretical work suggests, the deconstructive quality of language—as exemplified by poetry—may offer a pathway out of fixed identity and emotional stagnation. Conversely, narratives that cling too tightly to symbolic unity, such as the traditional realist novel, may amplify the subject’s inner loss and repression. This contrast not only exposes the differing ways genres engage with themes of maternity, loss, and identity, but also deepens our understanding of how language and the symbolic order interact within the depressive condition.
+
+**References**
+Kristeva, J. (1993). _New maladies of the soul_ (R. Guberman, Trans.). Columbia University Press.
+Oliver, K. (Ed.). (1993). _Ethics, politics, and difference in Julia Kristeva’s writing_. Routledge.
+Kristeva, J. (1984). _Revolution in poetic language_ (M. Waller, Trans.). Columbia University Press.
+Kristeva, J. (1989). _Black sun: Depression and melancholia_ (L. S. Roudiez, Trans.). Columbia University Press.
