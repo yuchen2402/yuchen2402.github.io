@@ -1,15 +1,16 @@
 ---
-title: "He always waited for the same train."
-collection: fiction
-category: novels
-permalink: /fiction/he-always-waited-for-the-same-train/
-excerpt: "A man always waits for the same train, hoping to see someone who never returns."
-date: 2009-10-01
+title: "The Temptation of the Land: Women and the Male Gaze in _The Legend of 1900_"
+collection: Academic Essays
+category: Essays
+permalink: /fiction/the-legend-of-1900/
+excerpt: "In The Legend of 1900, the female figure becomes a silent symbol of temptation and absence, her image shaped entirely through the lens of the male gaze."
+date: 2025-10-16
 author_profile: true
 ---
-
-He always waited for the same train.
-
-Every evening, he stood on the platform, his hands tucked into the pockets of his brown coat, eyes scanning the crowd. The train arrived, people came and went, but the one he longed to see never appeared.
-
-Yet, he waited.
+In The Legend of 1900 (2019), narrative authority is almost entirely in the hands of men. The story is told by a male narrator, Max; the protagonist, 1900, is male; and all key actions—naming, musical creation, and the ultimate choices of destiny—are controlled by male figures. Female characters, by contrast, appear only as spectators or as muses. They are not given full psychological or narrative depth; their existence serves mainly to spark the male protagonist’s self-awareness. This structure perfectly illustrates what Laura Mulvey describes in Visual Pleasure and Narrative Cinema: women are not the agents of the story but rather the objects to be looked at.
+The film’s only significant female figure—the beautiful yet expressionless girl who appears outside the recording studio window—possesses little to no subjectivity. Her presence serves merely as a fleeting trigger for 1900’s emotional turbulence. She is not a “character” but a “symbol”: a symbol of love, of the land, of the unknown life beyond the ship. In their first encounter, 1900 gazes freely at her from behind the piano, while the girl, fixing her hair, subtly indicates that she treats the porthole as a mirror rather than looking back at the man inside. More amusingly, the sequence in which she appears one by one through different portholes—bathed in glittering, poetic light—reveals, despite its beauty, the film’s gendered gaze: her beauty and grace exist entirely to serve the creative inspiration of the male genius, 1900.
+Later, 1900 secretly kisses the girl while she sleeps in the third-class cabin, then hides in a corner to watch her reaction as she wakes up—scenes that feel more like teasing than respect. When she disembarks, she unexpectedly kisses 1900 on the cheek and leaves her address, inviting him to visit her father’s shop. From her perspective, however, this moment feels abrupt and disconnected: before this, their only encounters were a brief exchange of glances on the rainy deck and 1900’s cryptic remark, “I know your father,” which he refused to explain.
+Within the film’s symbolic framework, the female figure is bound to the image of the land, which in turn signifies reality, desire, corruption, and danger. In the end, 1900 refuses to step ashore—refusing love and temptation alike—and this rejection is portrayed as a kind of “transcendent purity.” Yet such purity is built precisely upon the exclusion of both women and the real world. In other words, 1900’s so-called “spirituality” and “artistry” are constructed at the expense of the feminine.
+The film concludes with 1900’s self-destruction, while the melody he composed for the girl remains forever sealed within a record. Her presence becomes frozen as artistic inspiration; her body and voice are erased, leaving only the male artist’s “legacy.” She is transformed into a memory—into music—rather than existing as an autonomous subject with a story of her own.
+From a broader perspective, this mechanism of objectifying rather than subjectifying women is far from unique to The Legend of 1900; it recurs throughout the myth of the male artist in cinema. In Ang Lee’s Lust, Caution, for instance, Wang Jiazhi is portrayed as a sacrificial figure—willing to be used by Mr. Yee and her comrades in the name of national duty, only to ultimately destroy herself and her peers for the sake of love. I am not suggesting that Mr. Yee feels nothing for her, but in terms of agency, he clearly stands above her: in the end, he sorrowfully sends her to her death while remaining safe in his office, untouched by consequence.
+Such male-centered narratives are pervasive—seen in films like A Writer’s Odyssey (where Xin Zhilei’s character is little more than a decorative presence), Ip Man, Farewell My Concubine, Children of Heaven, and countless others—so much so that audiences have grown desensitized to their gender politics. As Simone de Beauvoir reminds us in The Second Sex, the struggle for women to escape the position of “the Other” is still a long and difficult journey.
