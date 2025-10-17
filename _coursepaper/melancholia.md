@@ -1,8 +1,8 @@
 ---
-title: "Between Thunderstorms and Tenderness: Everyday Masculinity in _Herstory_ (2024)"
-excerpt: "In _Herstory_ (2024), Shao Yihui turns everyday life into a quiet battleground for gender redefinition. This essay reads the film as both a feminist critique and a reflection on the fragility of modern Chinese masculinity. Through humor, tenderness, and contradiction, Herstory reveals that liberation from patriarchy is not only a women’s project—but also a man’s awakening."
-permalink: /coursepaper/the-legend-of-1900/
-date: 2025-05-17
+title: "Echoes of a Lost Time: Nostalgia and Melancholia in _The Deserted Village_ and _Eton College_"
+excerpt: "Abstract: This essay examines The Deserted Village and Ode on a Distant Prospect of Eton College through the lens of nostalgic melancholia, exploring how both poems dramatize the temporal tension between memory and loss. It argues that Goldsmith’s restorative nostalgia aspires to rebuild a vanished moral order, whereas Gray’s reflective nostalgia accepts irretrievability and turns remembrance into introspection. Together they illuminate the eighteenth century’s poetic negotiation between time, emotion, and historical consciousness."
+permalink: /coursepaper/melancholia/
+date: 2025-05-12
 author_profile: true
 layout: single
 ---
