@@ -5,11 +5,11 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Course Paper 課程論文"
+  - title: "Course Essay 課程論文"
     url: /coursepaper/
 
-  - title: "Academic Essays 學術隨筆"
-    url: /prose/    
+  - title: "Critical Essays 學術隨筆"
+    url: /criticalessays/    
 
   - title: "Novels and Poetry 小說/詩歌"
     url: /poetry/    
