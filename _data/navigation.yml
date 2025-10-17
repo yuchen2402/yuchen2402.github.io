@@ -5,16 +5,16 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Fiction 小說"
+  - title: "Course Paper 課程論文"
     url: /fiction/
 
-  - title: "Prose 散文"
+  - title: "Academic Essays 學術隨筆"
     url: /prose/    
 
-  - title: "Poetry 詩歌"
+  - title: "Novels and Poetry 小說/詩歌"
     url: /poetry/    
     
-  - title: "Academic Paper 學術文章"
+  - title: "Art Works 藝術作品"
     url: /academic/
 
   - title: "CV 簡歷"
