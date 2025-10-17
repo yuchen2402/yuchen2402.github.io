@@ -1,13 +1,22 @@
 ---
-title: "Echoes of a Lost Time: Nostalgia and Melancholia in The Deserted Village and Eton College"
-excerpt: "This essay examines The Deserted Village and Ode on a Distant Prospect of Eton College through the lens of nostalgic melancholia, exploring how both poems dramatize the temporal tension between memory and loss. It argues that Goldsmith’s restorative nostalgia aspires to rebuild a vanished moral order, whereas Gray’s reflective nostalgia accepts irretrievability and turns remembrance into introspection. Together they illuminate the eighteenth century’s poetic negotiation between time, emotion, and historical consciousness. (MA coursework essay, Melancholia and Hypochondria in 18th Century Europe, King’s College London.)"
+title: "The Lure of the Land: Women and the Male Gaze in The Legend of 1900"
+excerpt: "The essay critiques how _The Legend of 1900_ constructs female characters as passive symbols through the male gaze, revealing how the film’s notion of artistic “purity” depends on excluding women and reality itself."
 permalink: /criticalessays/piano/
 date: 2025-10-16
 author_profile: true
 layout: single
 ---
 
-### Echoes of a Lost Time
-This essay examines *The Deserted Village* and *Ode on a Distant Prospect of Eton College* through the lens of nostalgic melancholia, exploring how both poems dramatize the temporal tension between memory and loss.
+In The Legend of 1900 (1999), narrative authority is almost entirely monopolized by men. The story is told by a male narrator, Max; its protagonist, 1900, is also male; and all the crucial acts—naming, composing, deciding one’s fate—belong to men. Women, by contrast, appear merely as spectators or muses. They are denied psychological depth and narrative agency, existing only to trigger male self-realization. This structure is exactly what Laura Mulvey critiques in Visual Pleasure and Narrative Cinema: “Women are not the bearers of the look, but the objects of it.”
 
-It argues that Goldsmith’s restorative nostalgia aspires to rebuild a vanished moral order, whereas Gray’s reflective nostalgia accepts irretrievability and turns remembrance into introspection. Together they illuminate the eighteenth century’s poetic negotiation between time, emotion, and historical consciousness.
+The film’s only significant female presence—the beautiful but expressionless girl glimpsed through the recording-room window—is hardly a character at all. Her purpose is purely catalytic: she stirs 1900’s emotions for a brief, luminous moment. She is not a person but a symbol: of love, of land, of the unknown life beyond the ship. In their first encounter, 1900 gazes freely at her from behind the piano, while she, adjusting her hair, uses the porthole as a mirror, never once returning his look. Ironically, the poetic montage of her figure framed by the ship’s glowing windows only exposes the film’s gender ideology—her beauty exists solely to inspire the genius male artist.
+
+Later, 1900 secretly kisses her as she sleeps in the third-class cabin, then hides to spy on her reaction when she wakes. These moments feel less like tenderness than intrusion. When she later kisses him goodbye and invites him to visit her on land, the gesture feels abrupt, even disjointed, if we imagine the story from her perspective—their prior connection amounts to little more than a rainy-deck glance and 1900’s cryptic line, “I know your father.”
+
+Within the film’s metaphorical structure, woman and land are tightly bound together, and “land” signifies reality, desire, corruption, and danger. By refusing to disembark—to reject love, temptation, and the world—1900 is framed as spiritually “pure” and transcendent. Yet this supposed purity is built upon exclusion: the negation of woman and the denial of the real. His “spirituality” and “artistry” thus emerge only through the erasure of the feminine.
+
+The story ends with 1900’s self-destruction, while the melody he wrote for the girl is forever sealed in a record. Her existence is fossilized as artistic inspiration; her body and voice disappear, leaving behind only the male artist’s “legacy.” She becomes not a living subject with her own story, but a memory transmuted into music.
+
+This mechanism—objectifying rather than subjectifying women—is far from unique. In many myths of male genius, women exist as fuel for men’s creativity or sacrifice. Think of Wong Kar-wai’s Lust, Caution, where Wang Jiazhi is molded into a martyr for national duty and male desire, her death staged as tragic inevitability. Even if Mr. Yi harbors affection, his subjectivity overshadows hers: he watches her die with sorrow yet remains untouched, comfortably seated in his office. The list of such male-centric films is endless—A Writer’s Odyssey (where Xin Zhilei’s role verges on ornamental), Ip Man, Farewell My Concubine, Children of Heaven—so numerous that the problem risks becoming invisible to audiences.
+
+As Simone de Beauvoir reminds us in The Second Sex, the path toward genuine female subjectivity remains long and unfinished.
