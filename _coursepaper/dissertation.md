@@ -7,7 +7,6 @@ author_profile: true
 layout: single
 ---
 
-
 📄 [Click here to open the full dissertation in a new tab](https://yuchen2402.github.io/files/dissertation.pdf){:target="_blank"}
 
 ---
