@@ -1,11 +1,10 @@
 ---
 title: "The Temptation of the Land: Women and the Male Gaze in _The Legend of 1900_"
-collection: coursepaper
-category: Essays
-permalink: /coursepaper/the-legend-of-1900/
 excerpt: "In The Legend of 1900, the female figure becomes a silent symbol of temptation and absence, her image shaped entirely through the lens of the male gaze."
+permalink: /coursepaper/the-legend-of-1900/
 date: 2025-10-16
 author_profile: true
+layout: single
 ---
 In The Legend of 1900 (2019), narrative authority is almost entirely in the hands of men. The story is told by a male narrator, Max; the protagonist, 1900, is male; and all key actions—naming, musical creation, and the ultimate choices of destiny—are controlled by male figures. Female characters, by contrast, appear only as spectators or as muses. They are not given full psychological or narrative depth; their existence serves mainly to spark the male protagonist’s self-awareness. This structure perfectly illustrates what Laura Mulvey describes in Visual Pleasure and Narrative Cinema: women are not the agents of the story but rather the objects to be looked at.
 The film’s only significant female figure—the beautiful yet expressionless girl who appears outside the recording studio window—possesses little to no subjectivity. Her presence serves merely as a fleeting trigger for 1900’s emotional turbulence. She is not a “character” but a “symbol”: a symbol of love, of the land, of the unknown life beyond the ship. In their first encounter, 1900 gazes freely at her from behind the piano, while the girl, fixing her hair, subtly indicates that she treats the porthole as a mirror rather than looking back at the man inside. More amusingly, the sequence in which she appears one by one through different portholes—bathed in glittering, poetic light—reveals, despite its beauty, the film’s gendered gaze: her beauty and grace exist entirely to serve the creative inspiration of the male genius, 1900.
