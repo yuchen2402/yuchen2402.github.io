@@ -6,7 +6,7 @@
 
 main:
   - title: "Course Paper 課程論文"
-    url: /fiction/
+    url: /coursepaper/
 
   - title: "Academic Essays 學術隨筆"
     url: /prose/    
