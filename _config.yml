@@ -186,9 +186,9 @@ collections:
   coursepaper:
     output: true
     permalink: /coursepaper/:path/
-  fiction:
+  criticalessays:
     output: true
-    permalink: /fiction/:path/
+    permalink: /criticalessays/:path/
   prose:
     output: true
     permalink: /prose/:path/
