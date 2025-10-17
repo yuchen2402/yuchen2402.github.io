@@ -6,6 +6,10 @@ permalink: /criticalessays/
 author_profile: true
 ---
 
+<p style="color:#777; font-size:0.95em; margin-top:-10px;">
+Personal reflections and critical writings beyond coursework essays.
+</p>
+
 {% include base_path %}
 
 {% for post in site.criticalessays %}
