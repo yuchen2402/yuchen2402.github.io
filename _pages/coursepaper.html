@@ -11,26 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if fiction categories are defined -->
-{% if site.fiction_category %}
-  {% for category in site.fiction_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.fiction reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.fiction reversed %}
+<!-- New style rendering for coursepaper collection -->
+{% if site.coursepaper %}
+  {% for post in site.coursepaper reversed %}
     {% include archive-single.html %}
   {% endfor %}
+{% else %}
+  <p>No course papers found. Please add markdown files to the _coursepaper folder.</p>
 {% endif %}
+
 
 
 
