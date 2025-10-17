@@ -7,6 +7,14 @@ author_profile: true
 layout: single
 ---
 
-[Dissertation.pdf](https://github.com/user-attachments/files/22966923/Dissertation.pdf)
 
+📄 [Click here to open the full dissertation in a new tab](https://yuchen2402.github.io/files/dissertation.pdf){:target="_blank"}
 
+---
+
+<iframe
+  src="https://yuchen2402.github.io/files/dissertation.pdf"
+  width="100%"
+  height="900px"
+  style="border: 1px solid #ccc; border-radius: 8px;">
+</iframe>
