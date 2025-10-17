@@ -20,9 +20,13 @@ Modern theorists of melancholia sharpen this point. Howard (2012) notes that nos
 Equally, Eton evokes its own lost paradise through a verbal texture so ornate that it disengages the poem from any pretence of empirical reportage. The opening decastich—
 
 Ye distant spires, ye antique towers,
+
 That crown the watery glade,
+
 Where grateful Science still adores
+
 Her Henry’s holy Shade [...]
+
 His silver-winding way. (Eton College, ll. 1–10)
 
 —constitutes a miniature compendium of eighteenth-century rhetorical devices. As Spacks (1965) observes, the passage is built on a mosaic of apostrophe, chiasmus, polysyndeton, inversion, parallel triads, and carefully modulated sibilants that imitate the “silver-winding” Thames. The cumulative effect is ceremonial rather than descriptive: the syntax arches upward like the towers it names, and the repeated ye... ye... formula positions both scene and reader at a reverential distance. In Kristevan terms, the stanza is saturated with the semiotic—sonic play, rhythmic excess, a luxuriant overflow of address—that destabilizes any transparent symbolic reference to the real Eton (McAfee, 2003, pp. 13–27). Memory is not retrieved; it is re-enchanted, stylized, made strange.
@@ -32,8 +36,11 @@ By contrast, Village—though it too displays formal artistry in its heroic coup
 Grant (2017) notes that the lines—
 
 Ah happy hills, ah pleasing shade,
+
 Ah fields beloved in vain,
+
 Where once my careless childhood stray’d,
+
 A stranger yet to pain (Eton College, ll. 11–14)—
 
 stage a double exposure of longing and futility. The interjection Ah establishes desire; the phrase beloved in vain instantly cancels fulfillment. Time folds curiously: the adult “I” laments from the vantage of experience, yet the syntax places the childhood self already under the sign of loss. Moments later, a “fresh’ning breeze” (Eton College, l. 15) arrives “redolent of joy and youth” (Eton College, l. 19), soothing the speaker’s weary soul even as it reminds him that such refreshment is strictly momentary. The diction oscillates between perfect recollection and foreknowledge of inevitable sorrow, so that past and present bleed into one another.
