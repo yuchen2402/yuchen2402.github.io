@@ -1,6 +1,6 @@
 ---
 title: "Restorative Dreams, Reflective Realities: The Politics of Nostalgia in Hong Kong Film"
-excerpt: "This paper explores how the cinematic reconstruction of the Kowloon Walled City reflects Hong Kong's shifting identity and postcolonial memory."
+excerpt: "Abstract: This paper explores restorative and reflective nostalgia in _Comrades: Almost a Love Story_ (1996) and _Made in Hong Kong_ (1997), drawing on Svetlana Boym’s theory to examine how both films construct and critique historical memory around the 1997 Handover. It argues that Hong Kong’s nostalgic cinema functions simultaneously as emotional refuge and cultural critique, revealing the city’s political and psychological anxieties amid transition."
 date: 2025-01-08
 author_profile: true
 layout: single
