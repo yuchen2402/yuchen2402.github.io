@@ -17,8 +17,18 @@ layout: default
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
-    {% endunless %}
+{% unless page.header.overlay_color or page.header.overlay_image %}
+  <h1 class="page__title">{{ page.title }}</h1>
+{% endunless %}
+
+{% if page.collection == nil %}
+  {{ content }}
+{% else %}
+  {% assign collection_label = site[page.collection].label | default: page.collection %}
+  {% if collection_label != page.title %}
     {{ content }}
+  {% endif %}
+{% endif %}
+
   </div>
 </div>
