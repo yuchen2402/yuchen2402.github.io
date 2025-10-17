@@ -1,6 +1,6 @@
 ---
 title: "Who Waits, Who Acts: Gender and Nationalism in Tibetan Exile Cinema — A Case Study of _Dreaming Lhasa_"
-excerpt: "This MA dissertation examines how _Dreaming Lhasa_ (Sarin & Sonam, 2005) constructs a masculinized nationalist narrative through gendered representation. Using qualitative narrative analysis, it argues that the film naturalizes patriarchy by framing male agency as political action while relegating women to symbolic or emotional functions. The study calls for gender-attentive readings of exile cinema and for narrative forms that recognize women as historical agents."
+excerpt: "Abstract: This MA dissertation examines how _Dreaming Lhasa_ (Sarin & Sonam, 2005) constructs a masculinized nationalist narrative through gendered representation. Using qualitative narrative analysis, it argues that the film naturalizes patriarchy by framing male agency as political action while relegating women to symbolic or emotional functions. The study calls for gender-attentive readings of exile cinema and for narrative forms that recognize women as historical agents."
 permalink: /coursepaper/dissertation/
 date: 2025-09-17
 author_profile: true
