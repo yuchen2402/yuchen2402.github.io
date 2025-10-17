@@ -1,13 +1,12 @@
 ---
 layout: archive
 title: "Critical Essays 學術隨筆"
-subtitle: "Personal reflections and critical writings beyond coursework essays."
 permalink: /criticalessays/
 author_profile: true
 ---
 
 <p style="color:#777; font-size:0.95em; margin-top:-10px;">
-Personal reflections and critical writings beyond coursework essays.
+Independent reflections and essays on film and literature beyond formal coursework.
 </p>
 
 {% include base_path %}
