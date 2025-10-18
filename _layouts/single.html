@@ -58,8 +58,12 @@ layout: default
         </header>
       {% endunless %}
 
-      <section class="page__content" itemprop="text">
-        {{ content }}
+<section class="page__content" itemprop="text">
+  {% if content contains 'Independent reflections and essays on film and literature beyond formal coursework.' %}
+    {{ content | remove: '<p style="color:#777; font-size:0.95em; margin-top:-10px;">Independent reflections and essays on film and literature beyond formal coursework.</p>' }}
+  {% else %}
+    {{ content }}
+  {% endif %}
 
         {% if page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">
