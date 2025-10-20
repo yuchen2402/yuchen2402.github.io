@@ -1,218 +1,212 @@
 ---
-title: "The Victory of Kant"
+title: "Milk and Mist"
 excerpt: "In a dark cave, two lost travelers—Consen the empiricist and Reitan the rationalist—debate the nature of an apple tree until their clash of sense and reason gives birth to a new understanding."
-date: 2025-03-20
+date: 2025-05-25
 layout: single
 author_profile: true
 ---
 
-**1**
+All the servants and wet nurses in the shop, along with Li the broker behind the counter, lifted their heads in unison toward the doorway. In the early autumn sunlight of Shanghai stood a short and plump figure. When the figure stepped a little farther into the shadow of the lintel, everyone saw that it was an unfamiliar woman, her face pale, expression blank, and lined with wrinkles. Her neck leaned forward, and a slightly stooped posture hung a blue floral cloth bag stained with soil. The bag was tied simply under her chin, its corners folded twice on each side, its shape clear and plain, as if it carried only some food and a few silver coins or banknotes.
 
-Consen and Reitan were travelers from different lands. They had never met before, yet on a mountain path their journeys crossed by chance. Suddenly, both slipped into a deep and shadowy cavern. The cave was rich in water and food, but a strange voice from the darkness told them that they could leave only if they reached an agreement about the true knowledge of the apple tree that grew outside the cave. Their conclusion must be written down and pushed through a small hole in the wall to the mysterious power beyond. Only if that unseen judge approved their answer would they ever see daylight again.
+The chatter ceased abruptly when the woman’s small bound feet crossed the threshold. The shop of the hiring agency was narrow, yet along both walls stood two long wooden benches, old enough to groan in complaint whenever the women’s bodies pressed upon them. The women varied in figure and dress. Some wore plain Republican school uniforms, others thin shirts almost transparent as paper, and still others were wrapped in worn military cotton jackets. It was a winter day, and the cold wind swept in through the doorway. According to how thickly or thinly they were dressed, the women responded differently—stamping their feet lightly or folding their arms to keep warm.
 
-Consen, who called himself a pure empiricist, insisted that all knowledge came from direct experience. Reitan, who prided himself on being a pure rationalist, believed that true knowledge must arise from reason alone. They could not agree on how the apple tree should be known.
+They were united in this broker’s shop by a single purpose, all searching for a household willing to pay for milk. The wet nurses sat on the benches. A lucky few were already speaking with well-dressed ladies who had come to inspect them, while others interjected a few words or chatted idly among themselves. At that moment, they all raised their heads together. As the woman entered, every gaze converged upon her chest.
 
-Consen scratched his head and spoke first.
-“We must step outside,” he said, “and observe the apple tree with our own senses. We need to see its shape and color, smell its fragrance, touch its bark, even taste its fruit. Only then can we know what it truly is. Knowledge and truth can be gained only through the senses.”
+She wore only a thin single-layer blouse that, when stirred by the wind, rose and fell over her breasts like a dead fish. Those who knew the trade could tell at once that she had recently given birth, and that the fullness of her breasts promised milk both abundant and rich enough to nourish a sturdy infant.
 
-Reitan said nothing. The corner of his mouth twitched, somewhere between a polite smile and the involuntary movement of disdain. It was impossible to tell whether he was mocking Consen or approving him. Without replying, he set down his backpack, unscrewed a bottle of water, and began to drink.
+Li the broker looked up from the numbers on his ledger and straightened his back, stretching for a moment. He spent his days bent over his accounts, the abacus beads polished smooth as mirrors beneath his fingers.
+“Looking for work?” he asked, his eyes fixed on the woman. Countless women like her had come through his door, all with the same thoughts and the same smell. Li took pride in his ability to recognize that smell.
 
-Seeing that Reitan remained silent, Consen shrugged and walked toward the faint light. The apple tree stood right at the mouth of the cave, beyond which thick fog spread in all directions. He gazed at it closely. His eyes caught a hint of red; his nose recognized the scent of fruit; his fingers felt the roughness of bark. Satisfied, he returned to the cave and said eagerly to Reitan,
-“It’s simple. The apples are red, the bark is coarse, and the air smells sweet. All we have to do is send these observations through the hole, and we can go home!”
+The woman nodded and said only that her surname was Chen.
+“Where are you from?”
+“Changzhou.”
+Li glanced down her collar for a moment, then nodded.
+“Wait here. The agency takes three parts of your pay. Settlement at year’s end.”
 
-“Absurd!” Reitan stretched his arms and let out a lazy yawn, rolling his eyes as the quiet arrogance of a self-proclaimed rationalist began to show.
-“You have gathered nothing but fragments of sensory data. That is completely unreliable! The red you saw through the fog—how can you be sure it was the true color of the apple and not just a reflection from a pane of glass? The rough surface you touched—was that really the bark, or did you simply assume so because past experience taught you what bark should feel like? What if your old experiences do not apply to this tree at all? What if what you touched as bark was actually a leaf? You say you smelled the scent of apples, but what if you have a cold, and what you actually smelled was only the mucus in your own nose? Consen, you foolish empiricist! You have collected a handful of fleeting sensations—redness, roughness, fragrance—but these are mere appearances. They tell you nothing about the true knowledge of the apple tree.”
+At noon, Madam Guo’s black automobile stopped outside the shop. Li the broker wiped the grime from his palms onto his trouser legs, reached out to steady her as she stepped down, and at the same time pressed his other hand against the ledgers on the counter, which were being teased by the wind toward the floor. Madam Guo had recently given birth to another son and was now in need of a new wet nurse. She was slightly plump, dressed in a pale apricot Suzhou silk qipao. Her hair was neatly coiled into a precise bun at the back of her head, through which ran a hairpin inlaid with emeralds. A small golden bead dangled from the end of the pin, catching the light each time she turned her head.
 
-Reitan paced back and forth before the speechless Consen and went on.
-“You say the apple is red, yet under different light its color may change entirely. You say the bark is rough, but what if your fingers were suddenly injured and could no longer feel? Would you still call it rough? Your experiences are unstable, subjective, and momentary. They are far from what can be called true knowledge.”
+Lifting a slender hand before her face, Madam Guo waved it gently beneath her nose as though to divide the air, separating the mingled scents of sour milk and mothballs from the shop’s old cabinets. The wet nurses sitting on the benches all raised their heads again, this time adding another motion to the ritual: they pushed their chests forward in unison, eager greetings bursting forth one after another. It was like a clouded pond suddenly filled with hungry fish, mouths opening and closing toward the person standing on the boat, mouths that opened then shut, and shut then opened again.
 
-“Knowledge arises from reason, not from sensory experience,” Reitan said calmly. His eyes no longer met Consen’s. Instead, he reached into his backpack and took out a small, flower-patterned blanket that his grandmother had knitted for him long ago. He spread it neatly on the ground, sat cross-legged against the cave wall, and closed his eyes in quiet meditation.
+Madam Guo’s gaze did not wander; in an instant it settled upon Chen’s breasts. “How is the milk?” she asked. Li stepped forward and grasped Chen’s bosom. The breast, full with milk, leaked in such abundance that silvery threads stretched between his fingers. “You see, Madam? Thirty-six thousand yuan in legal tender. From Changzhou.”
 
-“To understand the apple tree,” he continued, “one needs only rational deduction. From the principles of biology, we know that a tree is a kind of plant, and every plant must have roots, stems, and leaves. Therefore, the apple tree must possess these as well. The apple, being a fruit, must conform to the rules of geometry; it should be spherical or nearly spherical. As for its color, that is merely an attribute bestowed by our minds. It depends on our perception, not on any external experience.”
+“She’s fed a child before?” Madam Guo asked.
+Chen lowered her collar slightly and answered softly, “I nursed one back home.”
+“She will do.”
 
-Consen frowned, irritated by the man’s arrogance. This was the very image of a proud rationalist. He waved his broad hand before Reitan’s face and snapped, “You are merely daydreaming in the dark! Your reasoning may sound logical, but how can you be sure that the apple tree in reality fits your imagined structure?”
+Madam Guo drew out a fresh stack of banknotes and placed it on the counter. Li quickly counted the amount. The bills bore the black print of the Central Bank, their denominations ten thousand or a hundred thousand each. He knew well that this currency would not hold its worth; if the price of rice doubled tomorrow, this bundle of notes would turn to waste paper.
 
-Reitan opened his eyes slowly, shaking his head as if brushing away a child’s hand. Seizing the moment, Consen pressed on, his voice growing urgent.
+“Add a little more, Madam. Have her come this afternoon. She will serve steadily and without trouble.”
 
-“Listen to me, Reitan. My senses may be limited by circumstance, but the information they bring is not empty conjecture. Through direct observation I can perceive the red of the fruit, the roughness of the bark, and the sweet fragrance in the air. These are concrete, verifiable facts. I plan to design a series of experiments, to record these observations, and to prove them with objective data. These data are the true foundation of knowledge. Reitan, you must see that your rationalist system has gone astray. Do you really believe that by sitting still and thinking alone, you can know everything there is to know? Stand up. Come with me. Let us experiment together.”
+Madam Guo’s brows began to knit but soon smoothed again. She drew out another stack of bills and tossed it carelessly onto the counter. Li produced a contract and accepted her signature. The wind outside, which had been gathering dust and grit for some time, now poured through the crack of the door as she departed, scattering the piles of money and ledgers across the floor.
 
-Reitan slowly shook his head, his voice calm yet firm.
+The women on the benches pulled their collars tight around their chests. The dried milk stains on their clothing caught the sunlight in blotched shadows. Li crouched on the ground, paying no attention to them, and carefully gathered each note into his hands. A portion he locked into the money chest; the rest he slipped, almost reflexively, into his trouser pocket.
 
-“Consen, you believe that your experimental data capture the inherent properties of the apple tree. In truth, they are nothing more than fleeting impressions—momentary perceptions you happened to gather during your brief contact with it. The true concept of the apple tree does not depend on these fragmented sensations, but on the universal truths revealed through rational deduction. From the fundamental principles of biology and geometry, we can conclude that an apple tree must have roots, a trunk, and leaves, and its fruit must follow geometric regularity, being spherical or nearly spherical. Such necessity transcends all individual variations.”
+The shop fell silent for a while. Li the broker, as usual, remained behind the counter, tidying his account books. He pulled open the wooden drawer where he kept the cash and brushed aside the stack of legal tender inside. The bills had large denominations but were printed on paper so thin that the corners often curled upward; sometimes one note lifted a little higher than the rest, giving the stack an illusion of thickness. He moistened his fingertips and counted quickly, arriving at some astonishing figure known only to himself. With a few brisk strokes of his brush across the ledger, he stuffed the notes back into the drawer. From the narrow slit between the drawer and the counter protruded a corner of a hundred-thousand-yuan bill, quietly suggesting that its owner would have no trouble keeping warm through the winter.
 
-Consen scoffed, replying with visible disdain.
+The wet nurses who had missed their chance now sat scattered along the benches. One was mending a torn collar; another discreetly loosened hers in readiness for the next potential employer. The smiles they had shown to Madam Guo were already withdrawn. Kindness, they knew, ought to be saved wisely, not squandered on those who shared their same misfortune.
 
-“Your reasoning may be rigorous, but it is built on nothing more than abstract models. The ‘necessities’ you imagine—how can you be certain they apply to this real apple tree in front of us? My sensory experiments, though bound by time and place, deal directly with the thing itself. Your so-called universal principles can only tell you what an *ideal* apple tree should be, not what *this* one truly is in all its concrete detail.”
+Two women, weary from sitting, rose to stretch their backs and exchanged commentary on the scene.
+“She’s a lucky one,” said one, rubbing her stiffened breasts. “Those breasts of hers, they don’t look like a woman of fifty.”
+The other pursed her thin lips, her eyes lowered, then rolled upward in a slow counterclockwise arc from left to right before her mouth took its turn. “Enough milk to feed ten children—she could feed ten men just as well, couldn’t she?”
 
-Reitan walked to the center of the cave, his steps measured and his gaze sweeping across the dim stone walls.
+The tail of her voice was as thin and sharp as her frame, and a small chorus of snickers followed. Their breaths, sour and heavy, mingled in the stagnant air, making it all the more stifling.
 
-“Precisely because sensory information is subjective and ever-changing, we must rely on reason,” he said evenly. “Your experiments may capture phenomena at a given moment, but they cannot yield a complete understanding of the apple tree’s essence. Reason alone can organize the fragments of experience and uncover the necessary conditions that lie beyond them. Take the question of existence itself—for example, we can never grasp what ‘to exist’ truly means without rigorous reasoning. The senses only tell us that something *appears* to exist; they never reveal what existence *is*.”
+Li the broker looked up from his ledger and struck the counter with his palm, the sound sharp and commanding. The laughter vanished at once, like rats scurrying back into their holes. He dropped a few loose coins into a glass jar, then picked up a sheet of paper and glanced at Chen.
 
-The tension between them grew sharper. Consen raised his voice, unable to contain himself.
+It was a crumpled registration form, with columns labeled “Name,” “Age,” “Any Illness,” and the like. The red seal in the corner had long since faded, its color and date impossible to make out. Such was the custom of Shanghai’s wet-nurse trade: no one dared to hire or recommend a woman without a broker’s paperwork.
 
-“You speak in lofty abstractions and forget the force of reality! Reason that is untested by observation, that refuses experiment, is nothing but a castle in the air. My senses tell me the color, the texture, the fragrance of the apple tree—these are tangible, undeniable. They are the only reliable path toward real knowledge!”
+Li dipped his brush in ink and wrote the two characters “Chen Shi” in the name column, then blew gently on the wet strokes. He set the form aside and, on half a sheet of thin rice paper, wrote down the address of the Guo residence. Handing both papers to Chen, he said nothing more.
 
-Reitan smiled faintly, his tone unshaken.
+Chen slipped them into her trouser pocket and did not look again at the women with whom she had shared those few silent hours. They had sat together on the same bench, their hips once touching, exchanging fragments of speech, yet the moment Chen secured employment and stepped toward the door, they became strangers once more.
 
-“Then tell me, how will you account for the truth hidden beyond the fog? In the darkness and the mist, your senses are prone to endless distortions. Can you be sure that the red you see is not a trick of the light? Can your sense of touch remain accurate if your hand were ever wounded? I, on the other hand, can build a coherent structure of necessity through logic and deduction. Even under the worst of conditions, those rational forms will never be shaken.”
+Their gazes, which had followed her, withdrew at once. They turned back to their own bodies, to their breasts, to the imagined eyes of their future mistresses. They wished to know what the ladies desired, and how their milk and manners might best fit those desires.
 
-Their debate raged on, shifting from the color of the apples and the texture of the bark to the biological structure and geometric form of the tree itself. Consen, citing his previous observations, argued passionately, “What experience gives me is more than mere impressions—it forms a kind of *factual knowledge*, something no pure deduction could ever replace.”
+It was as in a sheepfold: the sheep knew each other’s smell, but when one was led away, no other stirred. They merely went on chewing grass, waiting for the next hand to reach for them. As for the sheep taken away early—no one cared whether they lived or died; that was for fate to decide. The masters who owned them, too, cared little for the creatures themselves. What mattered was the wool and the milk that kept their households running.
 
-Reitan replied with equal conviction, “But knowledge gained through reason is universal and necessary. Your data may be distorted by changes in circumstance, yet through rational deduction we can uncover a truth that transcends time and space. No matter how the apple tree may change, its inner structure will always obey immutable laws.”
+In the end, the world was simply this: each person busy with their own affairs. If by chance two people happened to labor toward the same purpose, they might speak a few words or walk a short distance together. But once their purposes diverged, their feelings for each other changed just as swiftly.
 
+With the papers clenched in her pocket, Chen stepped out of the shop and was nearly thrown off balance by the early autumn wind. The same wind carried the foul, damp odor of the Suzhou River across every corner of Shanghai. Tailors, fishermen, and factory workers alike began each day inhaling that maternal stench, as if the city itself exhaled fatigue and rot.
+
+Chen suddenly felt her stomach hollow and heard the faint growl that betrayed its emptiness. She turned her eyes to the street, searching among the noodle stalls and food shops for some way to quiet her hunger. The few coins her mother had tucked into her cloth bag back in Changzhou were never enough for a meal of fish or meat. So when she saw a modest noodle shop that seemed kind enough, she agreed with herself to go in and asked the owner for a bowl of plain vegetable noodles, without meat.
+
+A few strands of greens and floating beads of oil shimmered on the surface of the soup. She felt grateful for those glistening drops, as though they were small mercies—dim lights flickering through the long shadow of her weary days. Weeks of travel had drained both her mind and body of nourishment; even this thin broth seemed like a reprieve.
+
+The shopkeeper busied himself in the kitchen. There were only a handful of customers—men and women who had just finished or were about to begin their shifts. From time to time, someone glanced at Chen’s chest, where the faint milk stains on her blouse caught the dull light. Her breasts were larger than most, though she had borne only one daughter back in her home village before her husband went to war and never returned. This natural endowment, so out of proportion to her slight frame, had no simple explanation that anyone could give.
+
+Chen’s husband had once worked as a clerk in a small tobacco shop in their town, until a war—one neither of them understood—took him away. She waited for him like the stone woman who forever faces the sea, like Meng Jiangnü weeping by the Great Wall, sewing clothes day after day while her belly grew rounder. She longed to hear the door creak open, to feel his calloused hand rest on her swelling stomach. But instead of his return, a worse message arrived.
+
+Her husband had not survived the battlefield. Only the upper half of his body was sent home. Before that mutilated form lost its last trace of life, he had clawed weakly at the air, as though trying to seize something unseen. His mouth opened and closed, but no one heard a single word emerge. What remained for Chen was half a body—something to bury, something to remember, and something to imagine as whole.
+
+In the small courtyard behind her house, she dug a pit as deep as a trench and laid him there. His eyes were covered with earth, his torn flesh soaked in it. In front of the unmarked grave, Chen bowed three times, but the knocks of her head against the ground made no sound worth noticing.
+
+Soon her belly began to swell again—so large that no one could ignore the new life preparing to feed on the ruins of her home. Her mother, nearly blind, lay each day on a bare cement bed, waiting for Chen to spoon thin millet porridge into her mouth. The porridge contained nothing but a handful of yellow millet, boiled in water, then steamed and thinned again with more water. It was the only food, the only support left in their crumbling household.
+
+Waves of famine refugees passed by. Some collapsed outside their door, gratefully accepted a little porridge, and then moved on to beg elsewhere. No one could escape the turning of the times—the force that altered every harvest and every human heart. It wiped the smiles from women’s faces and shattered the strength of men’s bodies. Families fell apart under the weight of an age they never asked for.
+
+People howled and begged, craving mercy from their own kind, though those same neighbors were equally desperate for mercy themselves. Everything was coming undone, and everyone acted on instinct alone. Groups of people realized their hometowns could no longer shelter or feed them. One by one, they fled—some to Shanghai, some to Suzhou. Wherever they went, each carried the same burden: a mouth that needed to eat. They thought hard about what part of themselves could still be traded, what skill or resource might keep them alive. In such a time, labor was never truly scarce, so each person needed to know what advantage they could claim. That advantage had to be recognized, and it had to sustain them until the day they died.
+
+weight upon their survival. She soon lost interest in her mother’s milk, so one more mouth turned to the millet pot.
+
+Life grew harsher. Day and night blurred into the same dull cycle. Chen sat sewing under the dim daylight, sometimes borrowing the light from a neighbor’s window. Her existence became an endless rhythm: stitching clothes, boiling gruel, wiping the faces of her daughter and her mother.
+
+But over time, her hands grew faster, and her stitches surer. She earned a little more each week. Life, it seemed, could go on in its difficult ordinariness. Chen’s strength itself had become the fuel that kept her small household alive—a quiet, relentless current that refused to die out.
+
+By the year’s end, when life should have been filled with the crackle of firecrackers, only the distant thunder of artillery echoed across the fields. Chen held her daughter in her arms and whispered New Year’s blessings into her ear. Their celebration was a bowl of millet gruel—this time with a pinch of salt. That salt, rare and precious, was the women’s New Year’s gift to themselves, a humble wish for surplus, health, and peace.
+
+In that moment, Chen felt a quiet happiness, a kind of contentment that came not from abundance but from endurance. Her daughter, though simple-minded, was alive; her mother was still breathing. Each freezing night, the three women pressed close together for warmth, and that small warmth was enough. The days were poor but livable. Humanity, Chen thought, possessed a stubborn resilience beyond its own comprehension—if one could still eat, still sleep, still survive, then perhaps that was already a form of happiness.
+
+But misfortune does not respect the calendar. One afternoon, the daughter wandered out of the mud-brick house and did not return by dusk. Chen searched through the night, her bare feet bleeding on the frozen ground. At dawn, the girl came home from an unfamiliar direction. Her clothes were torn to shreds; her face and body, too, bore the marks of tearing. Chen needed no words to understand what had happened. This was wartime, and such tragedy was the particular burden of women.
+
+She said nothing to her daughter, only washed the dirt from her skin. She knew her own powerlessness—knew there was no revenge to take, no justice that could be found. The girl’s damaged mind could not grasp what had been done to her, but her face betrayed a dull ache, the faint trace of sorrow. Thought had never fully taken root in her, but feeling still flickered, fragile and wounded. That sorrow seeped into the house, swelling each day until it became a deep, unspoken pain. It lodged itself in Chen’s chest, and in her mother’s as well, an invisible wound that would never heal.
+
+What meaning could the world still hold? In such an age, what future could a child like hers possibly have?
+Chen wrestled with this question every night, knowing both her weakness and that of the other two women in her care. What was the point of a life like this—bare survival, unending misery, no dignity, no hope? If her daughter were to outlive her, how could she endure this brutal world alone?
+
+Perhaps, Chen thought, it would be kinder to let her go now—to send her to the Pure Land, where pain could no longer reach. In the arms of the Buddha or the embrace of God, surely there would be no more war, no hunger, no cruelty. Let her be educated there, in that other realm; let her reason and spirit return. Let her mouth, which had forgotten laughter, recite the Prajnaparamita day and night. The Great Dharani, the Bright Dharani, the Supreme Dharani—Chen prayed that these holy names would take her daughter into their care, that the divine would relieve her of the suffering that the living could not.
+
+A day of clear sunlight arrived—one that might have been the mercy of God or the radiance of the Buddha. Chen did not care which god it was that would deliver her daughter from suffering. She knew only that the time had come, and she knew exactly what she must do.
+
+She woke the child from her noon nap and told her softly that it was a fine day for fishing. The girl opened her eyes, and together they walked hand in hand toward the river lined with tall reeds. The river was not far from their earthen house, only a five- or six-minute walk away. Chen had never truly known how long the river ran; since her own birth, it had been part of her every day. Her mother had once brought her there to wash clothes, draw water, to live by whatever the river gave. And now, her daughter too had come to the same riverbank.
+
+It was the girl’s first time there—the first time she would “see,” though she was now deaf and blind after that terrible incident. Yet she could still smell the river. From its scent, she seemed to hear the splashing of fish in the water; she smelled the faint trace of soap left behind by the women who had washed clothes days before. She smelled the reeds, fresh and thick, swaying like waves in the wind, singing their green songs to the sky.
+
+Chen tightened her grip on her daughter’s small, soft hand. The girl followed without hesitation, trusting as always. Soon their feet sank into the damp mud of the bank. The earth was cool, soft, and deep enough that the water’s chill reached through their soles.
+
+Chen told her daughter to lie down. The girl obeyed without fear—she had never doubted her mother. When she was born, her very first sound had been a laugh for her mother, and now that same laugh escaped her again. Perhaps the wet soil, wrapping around her body, reminded her of the warmth of the womb—a place where all outside motion was muffled and safe.
+
+Chen began to sing a lullaby, the same one she had sung while pregnant, the same one she had sung at birth, the same one she had sung on that terrible evening when her daughter returned home broken.
+
+“Sky mother, one nail; earth mother, one star.
+At night the rice is cooked behind the gate.
+When you hear a man biting a dog,
+Pick up the dog, throw a brick, and let the brick bite back.”
+
+Her voice quivered in the open air. The song carried over the reeds and the slow, shining current. As she sang, the girl’s eyes and nostrils quietly filled with mud. The lullaby, mingled with the wet earth, slipped into her ears for the last time.
+
+In that moment, mother and daughter—whose souls had long been bound together by suffering—were finally divided. The reeds continued to sway, whispering in the wind. Tiny bubbles rose from the muddy surface where the child lay, glimmered in the sunlight, and burst soundlessly.
+
+The girl’s departure was simple, almost gentle. A bowl of millet porridge had once bought her birth; now, some nameless god had come to take her back. Chen gathered bundles of reeds and laid them over the small body, shielding it from the current. The water washed softly against the stems, keeping the mud in place.
+
+The body beneath was smaller than before, as if shrinking back to the moment of birth. The mouth that had once suckled, the hands and legs that had reached for the world—all were stilled. She had tasted her mother’s milk, touched life, suffered its cruelties, and now returned to the calm of water.
+
+And that was how Chen lost her daughter.
 
 **2**
 
-The debate led neither man to yield. Consen and Reitan each resolved to stand firm in their convictions. Consen reached for his travel pack, which contained the instruments necessary for scientific investigation. He believed that if he could conduct a thorough empirical examination of the apple tree, its “essence” would inevitably reveal itself. Reitan, by contrast, pulled out his blanket, brushed the dust from the dry cave floor, and sat cross-legged to meditate. From time to time he opened a blank notebook, filling its pages with mathematical formulas and quiet sketches born from contemplation.
+The next morning, Chen gathered the few belongings left in her home, tied them into her blue floral cloth bundle, and boarded the train to Shanghai. The carriage was crowded and noisy, filled with refugees from every corner of the land. Whenever an era turns, people’s lives are overturned with it. They carried with them fragile hopes for a better future—hopes that made the squalor of the present just barely bearable.
 
-Consen took a deep breath of the damp, mist-tinged air outside the cave, then stepped forward with both caution and determination. Approaching the apple tree, he opened his small notebook and took out a pencil. He began carefully recording the tree’s overall form—the outline of its crown, the distribution of its branches—and even made rubbings of the bark’s texture. Next, he produced a portable ruler and a color chart to measure the diameter of the fruit, the saturation of its red hue, and the degree of roughness on the bark.
+There were no seats in the carriage. Chen sat on the grimy floor for four hours, surrounded by the stench of sweat, coal smoke, and unwashed clothes. Around her, people played cards, quarreled loudly over trivial family matters, traded stories of loss and hunger. Sometimes Chen joined in with a word or two; in the overlap of voices, pain dissolved into the air for a brief moment. But when the noise subsided, it crept back into their minds, heavier than before.
 
-“This red isn’t a single tone,” he murmured with scientific precision, “it’s mixed with hints of orange and deep crimson. I must note that carefully—only through repeated observation can random error be eliminated.”
+The noise itself was a kind of medicine. The crowd’s restlessness dulled their private misery. In one another’s grief, they saw the smallness of their own, and from that recognition, they offered advice, sympathy, sometimes even laughter. That uneasy fellowship kept their memories flowing, allowed time to move forward, and made life—however wretched—possible to endure.
 
-Then, from a small pouch, he drew a clean cloth to wipe several sections of the trunk before testing its surface texture by touch. Patiently, he tapped the bark, listening to the faintly muffled echo that told him of the wood’s solidity. To minimize sensory bias, he repeated each measurement at different times of day—morning and afternoon—recording the variations in temperature, light, and humidity that might affect his perception.
+When the train finally arrived in Shanghai, the passengers spilled out like flies, scattering in all directions. Each carried a bundle or a sack, and each bundle led its owner toward some factory, some workshop, some chance at survival. The people who had shared that cramped carriage, who had sat shoulder to shoulder for hours, now parted without a word. They would never see one another again, and no corner of their hearts would be reserved for the chance encounter.
 
-Consen declared with confidence, “My experiments are not idle imaginings but repeated, faithfully documented observations. Only through such empirical verification can we truly grasp what makes this apple tree unique.” His tone carried both the certainty of one devoted to data and the thinly veiled contempt of a man weary of abstract talk.
+Their brief crossing, like all things in that time, vanished as quickly as it appeared—swallowed by the city’s noise, the wind, and the turning of the world.
 
-He found a flat patch of ground beside the tree and laid out a sheet of white paper. Taking out his phone, he used the macro lens to capture close-up images of the fruit, recording the fine details of its surface. Recalling Reitan’s earlier criticism—that experimental results could shift with changing conditions—Consen began recording video as well, capturing the apple tree under different lighting to document how its colors transformed through the day.
+After finishing a bowl of plain noodle soup, Chen felt her mind settle into a quiet stillness. The faces she had seen, the words she had spoken, the noises of the train—all those fragments of the past sank back into sleep within her memory. People, she thought, only ever grant the past the length of a single meal or a sip of water. Within that fleeting moment, vivid memories flicker like ghosts before the eyes—moments one longs to revisit or to forget—but the emotions tied to them never find their way to the tongue. They fear being heard, for they know no one will truly listen or understand.
 
-Throughout the process, he worked methodically, annotating every observation, marking timestamps, and cross-checking results. His notebook filled with neatly written data—measurements, sensory notes, environmental variables—all laid out with precision. Finally, he murmured to himself, half in satisfaction, half in reflection, “The figures vary slightly under different conditions, but in the end, the apple tree consistently presents the same verifiable sensory characteristics.”
+And so, people silence their own feelings, letting them sink beneath the petty motions of daily life. They go on living, aging, and eventually dying.
 
-With a triumphant smile, Consen strode back into the cave and tossed his notebook onto the ground; it landed with a crisp _snap_. Standing before Reitan—who remained cross-legged in meditation—he spoke with a note of pride:
+Chen rose from her seat and handed a stack of banknotes to the noodle vendor. From her pocket, she drew out the folded paper that bore the address of the Guo household. The paper had soaked up a drop of oily broth, and that trace of oil lent the thin sheet of rice paper an unexpected value. Its faint fragrance of meat rose toward her face—a smell that seemed to guide her onward, as though it were pointing the way not only to her new place of work, but to the natural sequence of all destinations: the factory, the profession, and, ultimately, the grave.
 
-“Old man, still sitting there meditating? Let me tell you, I’ve unveiled the veil of that apple tree. I’ve uncovered the real, tangible truth!”
+All those she had met—the ones she knew, the ones she didn’t—were alike in their fate. Each would one day lie naked beneath the earth, quietly and finally still. Down there, no one spoke, no one gestured, no one busied themselves with errands or survival. The grave was the final resting bed, the end of all restless motion, the only home that never changed.
 
-Reitan slowly opened his eyes. A trace of disdain glimmered in his sharp gaze, and the corner of his mouth lifted into a faint, knowing smile.
+And yet, above the ground, people hurried ceaselessly for milk, for wages, for the paper money that would lose its worth by morning. None stopped to wonder what difference it made—whether one was buried today or in thirty years.
 
-“Oh?” he said lazily. “Then go on—tell me, what exactly is your so-called _tangible truth_?”
+Chen at last began to walk toward the address on the note—Route Lafayette. Her bound feet moved slowly, each step a relic of an era that refused to die. Though the foul bindings of cloth had long been cut away, the cruel curve of the arch remained. The crevice in the sole was filled with black mud. Her shoes were of an old style once sold by elderly peddlers on the streets.
 
-“It’s all right here in my notebook,” Consen declared, tapping the cover with conviction. “These pages contain the precise measurements gathered from repeated observation—the verified data on color, texture, shape, and scent. The sum of these sensory details forms the true image of the apple tree. There is no essence beyond direct experience, no hidden or abstract nature that exists apart from what can be observed, touched, or measured. In other words, this apple tree is a natural entity composed entirely of perceptible facts. All knowledge comes from sensory data, and what we call its *essence* is nothing more than the totality of its concrete attributes, not some phantom born of your empty meditations.”
+Now, few dared to sell such shoes. Those who did so worked in secret, offering them only to households that still hid women with bound feet. Before the war and before the inflation of the new currency, a pair had cost a few silver dollars—affordable, even for the poor. But now, with the paper money losing value by the day, the price had multiplied many times over.
 
-He slapped the notebook open and pointed excitedly to the pages filled with data.
-“The apple’s diameter ranges between 7.2 and 7.4 centimeters. Under different lighting, the fruit reflects wavelengths between 650 and 700 nanometers. The texture roughness remains consistently between 120 and 150 micrometers. And the scent’s intensity can be detected at measurable distances by the human nose…”
+Chen had bought her last pair before giving birth the previous year. She no longer thought of buying another.
 
-Reitan listened impassively, his expression unchanging. Then, with a faint smile, he stooped to pick up a smooth pebble from the cave floor and began etching a series of mathematical symbols onto the wall. His writing was swift, assured, and almost graceful. Speaking calmly as he worked, he said,
+Her bound shoes, tracing the fragile lotus steps of a bygone dynasty, carried Chen to the gates of the Guo Mansion. In Shanghai, mansions were never in short supply. They were the nests of the wealthy—rows of adjoining villas or solitary estates, symbols of fortune and fear alike.
 
-“Your parameters are amusing, I admit. But now, let me show you my reasoning.”
+At No. 315 Route Lafayette stood the Guo residence, the grandest among three Greek-style houses built side by side. Its exterior was draped in green ivy, which had crept over every inch of the wall, winding its way into the first-, second-, and third-floor windows. The ivy seemed intent on reclaiming the structure, leaf by leaf, root by root. Perhaps one day, with the help of those tendrils, the mansion would collapse, burying its inhabitants under rubble. The cries of the trapped would echo for a while before fading into silence, and those who had once possessed astronomical sums in their bank accounts would end up in the same blissful afterworld as Chen’s daughter.
 
-Consen frowned, watching as symbols and equations began to cover the stone surface.
+The splendor of the mansion was an illusion—dreamlike, delicate, as insubstantial as silk smoke. Like the ivy’s tendrils, this illusion grew by clinging, spreading through the cracks in the courtyard’s brickwork. A few strands of ivy dangled from the fissures, their withered tips pointing toward the golden characters carved on the iron nameplate: **Guo Mansion**.
 
-“According to the golden ratio principle in plant growth,” Reitan explained, “the ratio between the apple’s diameter and its stem width should roughly conform to a fixed proportion. Its spherical structure can be modeled as an ellipsoid, whose volume can be determined by this equation: (…). Here, *a* represents the equatorial radius, and *b* the polar radius of the fruit.”
+The autumn wind had at last quieted. Thinning clouds revealed a weak light that filtered down onto the dark stone façade, casting over the gilded letters a veil of muted gray. The great bronze gate stretched ten feet across, its cold, blackened surface intimidating to the touch. In its center hung a heavy lock, secured by a chain that wrapped through the handles—a second line of defense.
 
-He continued etching fluently:
-“As for color, by applying the mathematical model of light waves, we can calculate the variation in surface reflectivity under different intensities of illumination. And for the fragrance—its diffusion rate can be derived from the molecular motion equation. At a given temperature and pressure, I can determine how far the scent travels. All of this,” he concluded with quiet confidence, “can be deduced through mathematical reasoning, without ever stepping outside to observe the tree.”
+The first line was subtler: a small video doorbell fixed to the right-hand column, announcing to passersby that one might, if one had proper business, request entry. Yet the rows of iron spikes above the gate spoke more truthfully—there was no business worth such intrusion.
 
-Consen stared at the equations on the wall. His expression, once filled with disdain, slowly shifted toward astonishment.
+Chen, who had never seen such a device in her life, did not understand what the small round object was for. Experience told her that one entered a home either by pushing or by knocking. She patted the bronze door, then rattled the central lock. The sound was sharp and metallic, echoing through the courtyard like the cry of some cold instrument.
 
-Reitan slowly turned, his sharp gaze locking onto Consen.
-“I’m afraid, young man,” he said with calm precision, “that your experimental data happens to coincide almost perfectly with the results I derived through pure mathematics. In other words, I never needed to *see* the apple tree, nor to *smell* its fragrance, nor to *touch* its bark. Simply by sitting here, relying on logic and calculation, I already knew everything about it.”
+Moments later, an elderly woman hurried out from the side entrance, her face creased with deep lines. Seeing Chen—whose worn appearance and weary posture mirrored her own—she felt a brief, wordless recognition, a fragile kinship born of shared hardship. Yet something invisible held them back from open sympathy, a veil of duty and caution.
 
-Consen’s eyes widened. For a moment, he stood speechless, unable to find a retort.
+“Who are you looking for, madam?” the woman inside asked curtly.
 
-Reitan, clearly savoring the tension, spread his hands and gave a slow, indulgent shrug.
-“What you have gathered,” he said, “are fragments of sensory data. What I have obtained is a universal truth that transcends individual appearances. The knowledge of the apple tree I’ve reached through reason is far nobler than yours.”
+“My name is Chen,” came the answer. “I’ve been hired by Madam Guo, by contract. I’m here to serve as wet nurse.”
 
-Consen bit his lip and narrowed his eyes, staring intently at Reitan. Then, suddenly, he burst into laughter.
-“Ha! Don’t you see? That means you and I are *the same*! We both believe we’ve uncovered the essence of the apple tree—only you reached it through mathematical deduction, while I reached it through direct sensory experience.”
+The woman inside nodded, unfastened the lock, and opened the gate. Her name was Qin, though like Chen, no one called her by it. Soon enough, the two would be known simply as *Qin Ma* and *Chen Ma*.
 
-Reitan frowned. “How could that possibly be *the same*?”
+Qin Ma was the Guo family’s servant and cook. On ordinary days, she managed the household’s comings and goings, and saw to the meals of the master, the mistress, and their young heir. Her eyes were sharp and restless, darting with the precision of someone long accustomed to reading faces. She offered Chen a fleeting smile—no more than a passing courtesy—and then, without another word, led her toward the main staircase on the left side of the courtyard.
 
-“Think about it,” Consen replied, his voice rising with excitement. “Our conclusions are nearly identical, yet you’ve never seen that tree, while I’ve touched it with my own hands. It means that somehow, our two approaches—observation and reasoning—arrive at the same result. But clearly, the focus of each path is entirely different.”
+The path from the front gate to the main staircase was not far—ten or so paces brought them to the foot of the grand house. The main residence was a three-story garden villa built in the late neoclassical style. Unlike the dark marble of the outer gate, the ground floor was faced with beige-polished granite, while the second and third floors were coated in the same pale stucco. Flanking the front entrance stood two Ionic columns, their capitals curling like seashells, supporting a triangular pediment above. The stone staircase split in two gentle arcs as it ascended.
 
-Reitan fell silent. A flicker of uncertainty crossed his eyes. His habitual disdain for empiricism seemed momentarily shaken by Consen’s laughter.
+It was clear that Qin Ma had recently mopped the steps: faint damp traces shimmered across the smooth marble surface, quiet testimony to her diligence. The vestibule floor shared the same hue as the granite outside, overlaid with a Persian carpet of deep green threaded with gold. The thick weave swallowed the sound of their footsteps. Its corners, like the faded Spring Festival couplets still pasted on the doorway, were slightly upturned, yet the intricate woolen pattern remained distinct—a sign of the household’s old, measured pride.
 
-Consen caught his breath, leaned closer, and tapped lightly on Reitan’s forehead.
-“So here’s the real question,” he said with a quiet intensity. “If the essence of the apple tree is truly nothing more than a collection of sensory data, then how did *you* manage to deduce it through pure reasoning? And if its essence really lies in mathematical structure, then how did *I* perceive it through experience? Tell me, Reitan—does experience confirm reason, or does reason verify experience?”
+The surrounding walls were paneled with rosewood of a dark red-brown tone. The grain was so fine that it seemed to flow like water beneath the surface. From the center beam hung a framed calligraphy piece that read *Harmony Brings Prosperity*, mounted beneath glass and edged with redwood trim.
 
-Reitan did not answer right away. His eyes grew distant and thoughtful as he began to reexamine the notes and equations spread before him.
-The air between them felt charged, heavy with the sense that something larger—something beyond their argument—was about to be revealed. Though their conclusions seemed to align, the subtle rift between them hinted at a deeper truth waiting to be uncovered.
+On either side of the beam hung oil paintings in the Western style. To the left, a young woman in a white corseted dress sat poised on a violet-upholstered chair, a calm lake landscape unfurling behind her. To the right, a man of similar age wore a fitted Zhongshan suit heavy with medals across his chest; behind him stood a chestnut warhorse, its glossy flank capturing a hint of light. He was clearly a soldier seasoned by the battlefield.
 
-When they finally handed their combined report to the “mysterious force” through the hole in the cave wall, a long sigh echoed from above. The sound was cold and faintly scornful, as if to say, *“You have not yet reached true understanding.”*
+Beside each painting stood a tall blue-and-white porcelain vase, about half the height of a person, holding branches of slightly yellowed magnolia. Their faint fragrance mingled uneasily with the resinous scent of old wood, producing an undertone almost metallic.
 
-Reitan lifted his head. His gaze shimmered with the steady light of reason, and his tone was calm but resolute.
-“Consen, your experimental data may appear solid,” he began, “but you must realize that sensory experience is always bound by circumstance. If the apple tree were to be eaten away by insects or to wither in poor soil, what would your measurements prove then? No matter how many experiments you conduct, you will always gather a series of fragmented and temporary impressions, never the eternal essence of the tree.”
+Directly opposite the entrance stood a carved wooden screen. Its frame bore hairline cracks but had been polished to a sheen. The embroidered panel, threaded with gold, depicted a tranquil river scene—boats gliding through spring mountains. Through the gauze of the design one could glimpse the outline of the hall beyond.
 
-Consen’s face reddened. He slammed his notebook shut and snapped, “Easy for you to say! At least my conclusions are grounded in what I’ve actually seen, touched, and heard. Your so-called ‘mathematical knowledge’ exists only in your head—abstract symbols with no pulse! Or are you simply afraid to test them against reality, because if you did, your entire temple of rationalism might crumble?”
+At the center of that hall was a large set of rosewood furniture. The main tea table, about three zhang long and two wide, was flanked by a wide bench behind and two single armchairs facing it. The chairs formed a circle around the table, their backs carved with motifs of mandarin ducks, children at play, and scholars on the road. The armrests were shaped like *ruyi* scepters, said to bring good fortune when touched.
 
-Reitan smiled faintly, shrugging with quiet amusement. “I don’t fear doubt,” he replied evenly. “I only believe that some truths are too fundamental to require it. Look here—by applying biological and geometric principles, I can deduce that an apple tree must possess roots, a trunk, and leaves. This is not just a common pattern but a necessary mathematical law. To question such principles would be to undermine the very structure of knowledge itself.”
+The craftsmanship of the table was even finer. Its four legs twisted outward in a gentle curve, like a woman’s waist. On each side were three drawers, their panels engraved with dense, elegant designs. Only the central drawer had a polished brass ring the width of a child’s palm; the others were purely ornamental, their frames hinting at utility without offering it.
 
-Consen spread his hands in exasperation, his voice rising. “And yet you must admit that we all arrive at those so-called ‘laws’ *through experience*! Every observation I’ve made confirms them. Your so-called necessity is just reason flattering itself with tidy abstractions. The apple’s red skin, the rough texture of its bark—these are facts, facts that I’ve confirmed with my own senses! If not for my observations, how could you possibly know that your formulas correspond to any real apple tree at all?”
+Atop the table stood a cloisonné tea set gilded with lotus motifs. The teapot’s round belly was painted with delicate interlocking vines, its narrow spout curved lightly upward, its lid crowned with a small jade knob. On a rosewood tray sat four white porcelain cups of the same design, faint tea stains collecting at their bottoms. Nearby lay a brass tea scoop, its handle engraved with curling foliage, its edges worn smooth and darkened by years of use.
 
-Reitan paused, his expression softening into contemplation. After a long silence, he replied,
-“Your observations are indeed precise, but they only describe how the apple tree *appears* under certain conditions, at certain moments. Change the light, or the state of the tree itself, and your sensory data shifts with it. My deductions, however, rest upon principles that do not change—natural laws and mathematical relations that hold in every circumstance. Such rational knowledge possesses universality and stability, transcending the fleeting subjectivity of your experience.”
+Beside it, a silver kettle rested on a small coal stove made of iron wire. The coals glowed a faint red, and thin steam drifted from the kettle’s darkened spout, winding lazily through the still air of the Guo family’s parlor.
 
-The two men stood facing each other for a long time, neither willing to yield. Finally, Consen struck the table with his palm and said coolly,
-“It seems we still cannot persuade one another. Your rational deduction and my direct observation both have their flaws. Perhaps this means that the essence of the apple tree cannot be revealed through pure reason or pure experience alone, but through some interaction between the two.”
+At the far edge of the tea table rested a red clay Yixing teapot upon a woven bamboo mat. On its smooth surface, two characters were carved in neat regular script—*Song Feng*, “Pine Wind.” The spout was short and rounded, the clay’s luster dulled by years of handling.
 
-Reitan remained silent for a while, his expression thoughtful, as though weighing the implication of Consen’s words. Then he spoke slowly,
-“Perhaps you are right. Our conclusions match almost perfectly in number, yet our interpretations of what that means differ profoundly. Reason tells me that an apple tree must have roots, a trunk, leaves, and that its fruit must be round. But that describes only its ideal form. Your experience shows me its current appearance, yet it tells us nothing of its enduring nature.”
+A hand extended across the table, its three fingers—index through ring—brushing the side of the pot. A faint trace of warmth lingered beneath the fingertips. The owner of the hand seemed satisfied, for he tilted the pot and poured its oolong tea into a glass strainer. Inside the strainer, two inches of spent tea leaves had gathered, some still clinging stubbornly to the sides. When the last drops filtered through, he poured the clear liquid into a gilded porcelain cup.
 
-Their eyes met in the dim light of the cave. For the first time, neither spoke from pride nor certainty. Both realized they had brushed against something deeper—a truth suggesting that only through the fusion of reason and experience could one ever approach the real essence of the apple tree, or of anything at all.
+The tea was translucent and still, with a few fragments of leaf floating on its surface. The man’s lips were full and fleshy; as the tea entered his mouth, he rolled it briefly over his tongue before swallowing.
 
+Raising one’s gaze, one would see that his eyes, like his lips, were broad and heavy-lidded. The lids were thick and single-folded, the eyeballs large, the bags beneath them pronounced. His gaze did not linger on the tea. Slowly, his eyelids lifted, and his eyes turned—settling on Chen’s figure.
 
-**3**
-
-Reitan said softly, “Consen, I’ve begun to see that pure mathematical reasoning and conceptual deduction cannot truly capture the vivid, living, and ever-changing qualities that your senses perceive in the apple tree. My rational system can describe its geometry with precision—it may tell us that the fruit is roughly spherical, perhaps with a central axis of symmetry—but beyond that, all the life of the tree, its texture and immediacy, vanish into abstraction.”
-
-He opened his eyes slowly; for the first time, there was a trace of uncertainty in them. Consen, expecting another round of disdain for experience, was surprised to hear such honest recognition of reason’s limits.
-
-Consen replied, “I’ve realized something similar. Experiments and observations alone often lead to confusion and uncertainty. I’m always anxious that the external world might change the apple tree itself—light, season, insects, even flaws in my own perception—all these can affect what I conclude. I can’t claim my experiments reveal anything eternal. How can I be sure the apple tree must always have roots and leaves? What if, somewhere else, another kind of ‘apple tree’ grows with an entirely different form? As you said, that might lie beyond the reach of my individual experience.”
-
-He shrugged helplessly. “And what’s more, I rely on induction to arrive at general rules like ‘plants usually have roots, stems, and leaves.’ Isn’t that already using a sort of quasi-rational principle to filter my experience? Can I really separate myself from all prior assumptions?”
-
-Both men fell silent. The dim oil lamp on the stone wall flickered gently, as though hinting that a new idea was forming between them. After a long pause, they spoke again—this time without anger, but with curiosity and calm.
-
-Reitan said, “Perhaps we must admit that real knowledge is neither received passively from the senses nor constructed entirely by cold reasoning in the mind. Both the sensory appearances and the rational forms we impose on them play essential roles. You once challenged me—saying that if I never confirmed my formulas through any sensory contact, my logic would be unanchored from the world. And I challenged you—that if you relied only on fragmented observations, you would never glimpse the deeper conditions beneath them. Maybe both of us were right.”
-
-Consen nodded slowly.
-“I’m beginning to understand something,” he said. “To explain why I can look at my experience and say ‘that is an apple tree,’ there must already be some structure of thought—some prior principle—that allows me to gather the colors, shapes, and scents before me and combine them into a single object. Without this inner faculty of synthesis, every perception I record in my experiments would remain a collection of scattered, disconnected fragments.”
-
-He paused and glanced at Reitan.
-“So to truly *know* the apple tree, there must be two elements: first, the external sensory impressions themselves; and second, the mind’s forms, rules, or categories that shape and organize those impressions. But what exactly are these ‘categories’? Are they the pure concepts you spoke of earlier? Or could it be that our minds are equipped with built-in structures that weave sensory data into a coherent whole?”
-
-Reitan nodded gravely.
-“Exactly. We might suppose that all knowledge of the external world depends on both the stimulation of our senses by things outside us and the pre-existing forms within reason or the mind that process that stimulation. For instance, we inevitably perceive all things within the frameworks of *space* and *time*. We cannot step outside those dimensions. If we wish to know the apple tree, we must first recognize that it appears to us as a tree precisely because our senses distinguish it in space and time, while our mind uses a set of concepts or rules to unify the sensory data. In that sense, the apple tree you perceive is both a product of observation and a result of thought organizing sensory content.”
-
-He raised a hand toward the upper part of the cave, as though pointing to the ghostly outline of the tree beyond.
-“Yet we cannot claim that the tree is merely our illusion. It truly exists—but we can only perceive and understand it *in the way our faculties allow*. What it is ‘in itself,’ apart from how it appears to us, we may never know. At least, when we speak of knowledge, all we can discuss is the form in which it presents itself to us, and the way our mental categories shape that presentation.”
-
-Consen murmured thoughtfully,
-“It’s as if we can never know the apple tree in its pure state of being—we can only know how it becomes an object of our experience and our thought. So it’s not merely my sensory power, nor your logical faculty, but a deeper system that already determines how we derive structured understanding from sensory input.”
-
-He struck his forehead, suddenly enlightened.
-“Perhaps this is the new path we’ve both been seeking. We must accept the driving force of external experience, yet also acknowledge that beyond experience there are *a priori* forms shaping how we organize it. Then the so-called ‘essence’ of the apple tree isn’t simply what the senses expose, nor what pure reason deduces—it depends on how our mind structures outer phenomena through these innate forms.”
-
-Reitan’s eyes widened, and a spark of realization crossed between them.
-“Indeed. If we understand these *a priori* structures as the bridge between reason and experience, then empiricists need not fear that their data are scattered or fleeting, and rationalists need not dread sensory uncertainty. Instead, we share a common foundation: the senses provide the material, the *a priori* forms give it unity.”
-
-In the dim cave, their voices softened, gaining depth. The torchlight flickered over their faces, as if revealing the dual nature of the apple tree itself—rooted in the tangible world yet shaped by the innate order of the mind.
-
-And somewhere in the silence, the “mysterious power” seemed to await their final accord. This new understanding allowed them to preserve the concreteness of experience without losing the universality of reason—a reconciliation that had eluded them before. In this synthesis, the true knowledge of the apple tree belonged neither solely to the outer world nor solely to the inner mind, but to the meeting point between the two.
-
-The two men turned toward the faint shadow on the cave wall, as though perceiving something they had both long sought: that the whole secret of the tree might forever dwell in that in-between realm—one that could never be fully captured by pure reason, nor exhausted by pure experience.
-
-
-**4**
-
-After a long and searching debate, Consen and Reitan finally brought together their observations and rational deductions into a single statement, written on that sheet of paper:
-
-**Transcendental Idealism**
-By Immanuel **Kant**
-
-The “essence” of the apple tree is neither merely what the naked eye perceives—the branches, roots, and fruit transmitted through the senses—nor simply an abstract entity derived from the cold deductions of geometry or arithmetic.
-
-What truly constitutes the existence of this apple tree lies in the synthesis between the manifold impressions captured by our senses and the innate forms of space, time, and the categories of reason through which our mind organizes them.
-
-In other words, the truth of the apple tree manifests only within the interplay between the a priori framework of our cognition and the empirical data of experience. Every leaf and branch appears to us in the way it does because it is shaped by those innate forms; and what we know is only this processed appearance—never the thing-in-itself that transcends all phenomena.
-
-Thus we can say: the apple tree, as it exists for us, is a phenomenon—dependent on sensory experience yet formed through the a priori structures of reason. This phenomenon reveals both the concrete richness of the outer world and the universal order imposed by the human mind.
-
-Our ability to discern the common laws of apple trees amid the chaos of experience rests upon a transcendental principle within us, which unites all sensory data into one coherent whole. Yet that which lies beyond both experience and these innate structures—the true “essence” of the tree—must forever remain unknown.
-
-In conclusion, the truth of the apple tree—its mode of existence as it appears within our cognition, formed through the synthesis of sense and reason—is the very heart of what we call Transcendental Idealism.
-
-When they submitted this page, a voice from above finally sighed,
-"You have reached consensus—for now."
-
-And so the two stepped out of the deep cavern, into the pale light of dawn.
-
-On that sheet, the name “Kant”—born from the merging of Consen and Reitan—stood not merely as a signature, but as a symbol of their reconciliation: the transcendence of the old opposition between pure empiricism and pure rationalism, and the birth of a new path—one that honors both sensory experience and the a priori forms of human understanding.
+(To be continued)
