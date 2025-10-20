@@ -205,8 +205,6 @@ At the far edge of the tea table rested a red clay Yixing teapot upon a woven ba
 
 A hand extended across the table, its three fingers—index through ring—brushing the side of the pot. A faint trace of warmth lingered beneath the fingertips. The owner of the hand seemed satisfied, for he tilted the pot and poured its oolong tea into a glass strainer. Inside the strainer, two inches of spent tea leaves had gathered, some still clinging stubbornly to the sides. When the last drops filtered through, he poured the clear liquid into a gilded porcelain cup.
 
-The tea was translucent and still, with a few fragments of leaf floating on its surface. The man’s lips were full and fleshy; as the tea entered his mouth, he rolled it briefly over his tongue before swallowing.
-
-Raising one’s gaze, one would see that his eyes, like his lips, were broad and heavy-lidded. The lids were thick and single-folded, the eyeballs large, the bags beneath them pronounced. His gaze did not linger on the tea. Slowly, his eyelids lifted, and his eyes turned—settling on Chen’s figure.
+The tea was translucent and still, with a few fragments of leaf floating on its surface. The man’s lips were full and fleshy; as the tea entered his mouth, he rolled it briefly over his tongue before swallowing. Raising one’s gaze, one would see that his eyes, like his lips, were broad and heavy-lidded. The lids were thick and single-folded, the eyeballs large, the bags beneath them pronounced. His gaze did not linger on the tea. Slowly, his eyelids lifted, and his eyes turned—settling on Chen’s figure.
 
 (To be continued)
