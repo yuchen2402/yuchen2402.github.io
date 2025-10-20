@@ -76,29 +76,28 @@ author_profile: true
 document.addEventListener("DOMContentLoaded", function () {
   const zoomPreview = document.getElementById("zoomPreview");
 
-  // 每次 Lightbox 打开时动态监听
-  document.addEventListener("click", function () {
+  // 每当 lightbox 打开一张图片时，检测新生成的 .lb-image
+  const observer = new MutationObserver(() => {
     const lightboxImage = document.querySelector(".lb-image");
-    if (!lightboxImage) return;
+    if (lightboxImage && !lightboxImage.hasZoomHandler) {
+      lightboxImage.hasZoomHandler = true;
 
-    // 确保不重复绑定
-    if (lightboxImage.hasZoomHandler) return;
-    lightboxImage.hasZoomHandler = true;
+      lightboxImage.addEventListener("mousemove", function (event) {
+        const rect = lightboxImage.getBoundingClientRect();
+        const x = ((event.clientX - rect.left) / rect.width) * 100;
+        const y = ((event.clientY - rect.top) / rect.height) * 100;
+        zoomPreview.style.backgroundImage = `url('${lightboxImage.src}')`;
+        zoomPreview.style.backgroundPosition = `${x}% ${y}%`;
+        zoomPreview.style.display = "block";
+      });
 
-    // 鼠标移动时显示细节图
-    lightboxImage.addEventListener("mousemove", function (event) {
-      const rect = lightboxImage.getBoundingClientRect();
-      const x = ((event.clientX - rect.left) / rect.width) * 100;
-      const y = ((event.clientY - rect.top) / rect.height) * 100;
-      zoomPreview.style.backgroundImage = `url('${lightboxImage.src}')`;
-      zoomPreview.style.backgroundPosition = `${x}% ${y}%`;
-      zoomPreview.style.display = "block";
-    });
-
-    // 鼠标移出时隐藏
-    lightboxImage.addEventListener("mouseleave", function () {
-      zoomPreview.style.display = "none";
-    });
+      lightboxImage.addEventListener("mouseleave", function () {
+        zoomPreview.style.display = "none";
+      });
+    }
   });
+
+  // 监听整个文档变化，当 Lightbox 打开时触发
+  observer.observe(document.body, { childList: true, subtree: true });
 });
 </script>
