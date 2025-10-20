@@ -6,7 +6,8 @@ author_profile: true
 collection_name: poetry
 ---
 
-<div class="page__intro" style="margin-bottom:1.5em;">
+<!-- ✅ 独立容器 + 清除浮动 -->
+<div style="clear: both; padding-top: 0.5em; margin-bottom: 1.5em;">
   <p style="color:#777; font-size:0.95em; margin-top:-10px;">
     Selected poems and lyrical writings exploring memory, emotion, and cultural identity.
   </p>
