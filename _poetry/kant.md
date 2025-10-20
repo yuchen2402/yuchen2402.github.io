@@ -1,7 +1,7 @@
 ---
 title: "Milk and Mist"
-excerpt: "In a dark cave, two lost travelers—Consen the empiricist and Reitan the rationalist—debate the nature of an apple tree until their clash of sense and reason gives birth to a new understanding."
-date: 2025-05-25
+excerpt: "A destitute widow journeys from war-torn Jiangsu to 1940s Shanghai, where amid the city’s glittering decay she sells her own milk to survive, her body becoming both her livelihood and her last trace of love and loss."
+date: 2025-05-25-present
 layout: single
 author_profile: true
 ---
