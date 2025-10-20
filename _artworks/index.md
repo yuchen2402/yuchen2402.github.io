@@ -22,6 +22,7 @@ author_profile: true
   {% endfor %}
 </div>
 
+<!-- ✅ 引入 Lightbox -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
@@ -51,4 +52,53 @@ author_profile: true
   color: #555;
   margin-top: 8px;
 }
+
+/* 🔍 左下角放大细节窗口样式 */
+.zoom-preview {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  width: 220px;
+  height: 220px;
+  border: 2px solid #aaa;
+  background-repeat: no-repeat;
+  background-size: 200%;
+  display: none;
+  z-index: 99999;
+  box-shadow: 0 0 8px rgba(0,0,0,0.3);
+  background-color: #fff;
+}
 </style>
+
+<div class="zoom-preview" id="zoomPreview"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const zoomPreview = document.getElementById("zoomPreview");
+
+  // 每次 Lightbox 打开时动态监听
+  document.addEventListener("click", function () {
+    const lightboxImage = document.querySelector(".lb-image");
+    if (!lightboxImage) return;
+
+    // 确保不重复绑定
+    if (lightboxImage.hasZoomHandler) return;
+    lightboxImage.hasZoomHandler = true;
+
+    // 鼠标移动时显示细节图
+    lightboxImage.addEventListener("mousemove", function (event) {
+      const rect = lightboxImage.getBoundingClientRect();
+      const x = ((event.clientX - rect.left) / rect.width) * 100;
+      const y = ((event.clientY - rect.top) / rect.height) * 100;
+      zoomPreview.style.backgroundImage = `url('${lightboxImage.src}')`;
+      zoomPreview.style.backgroundPosition = `${x}% ${y}%`;
+      zoomPreview.style.display = "block";
+    });
+
+    // 鼠标移出时隐藏
+    lightboxImage.addEventListener("mouseleave", function () {
+      zoomPreview.style.display = "none";
+    });
+  });
+});
+</script>
