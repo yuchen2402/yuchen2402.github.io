@@ -1,6 +1,6 @@
 ---
 title: "Biological Nature, Social Division of Labor, and Social Change"
-excerpt: "The essay compares Schiller’s reflective “writing from gentle remembrance” with Keats’s and Hölderlin’s differing approaches to melancholy, arguing that both immediate emotional expression and distant contemplation can powerfully articulate depressive experience in literature."
+excerpt: "The essay argues that while Feuerbach viewed social division as determined by fixed human biology and Marx attributed it to changing modes of production, a more nuanced perspective sees biology and society as dynamically interacting forces that co-evolve to shape labor, culture, and social transformation."
 permalink: /criticalessays/nature/
 date: 2025-03-01
 author_profile: true
