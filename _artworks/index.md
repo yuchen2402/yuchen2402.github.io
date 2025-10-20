@@ -5,6 +5,8 @@ permalink: /artworks/
 author_profile: true
 ---
 
+{% raw %}
+
 <p style="color:#777; font-size:0.95em; margin-top:-10px; margin-bottom:25px;">
   A selection of artworks and visual experiments created during the BA programme.
 </p>
@@ -110,3 +112,4 @@ document.addEventListener("DOMContentLoaded", function () {
   setInterval(attachZoom, 500);
 });
 </script>
+{% endraw %}
