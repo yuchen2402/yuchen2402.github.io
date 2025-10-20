@@ -5,13 +5,10 @@ permalink: /academic/
 author_profile: true
 ---
 
-{% assign page.content = nil %}
-
 <p style="color:#777; font-size:0.95em; margin-top:-10px; margin-bottom:25px;">
   A selection of artworks and visual experiments created during the MA programme.
 </p>
 
-<!-- 图片画廊 -->
 <div class="gallery">
   {% for work in site.academic %}
     {% if work.image %}
@@ -25,7 +22,6 @@ author_profile: true
   {% endfor %}
 </div>
 
-<!-- 引入 Lightbox2 -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
