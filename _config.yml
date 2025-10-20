@@ -126,6 +126,11 @@ analytics:
 include:
   - .htaccess
   - _pages
+  - _coursepaper
+  - _criticalessays
+  - _poetry
+  - _prose
+  - _academicpapers
   - files
 exclude:
   - "*.sublime-project"
