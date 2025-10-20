@@ -5,11 +5,11 @@ permalink: /poetry/
 author_profile: true
 ---
 
-<div class="page__content" style="margin-bottom: 1.5em;">
-  <p style="color:#777; font-size:0.95em; margin-top:-10px;">
-    Selected poems and lyrical writings exploring memory, emotion, and cultural identity.
-  </p>
-</div>
+{% assign page.content = nil %}
+
+<p style="color:#777; font-size:0.95em; margin-top:-10px; margin-bottom:25px;">
+  Selected poems and lyrical writings exploring memory, emotion, and cultural identity.
+</p>
 
 {% for post in site.poetry %}
   {% include archive-single.html title=false %}
