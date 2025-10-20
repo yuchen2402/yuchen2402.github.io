@@ -1,6 +1,6 @@
 ---
 title: "The Victory of Kant"
-excerpt: "In a dark cave, two lost travelers—Consen the empiricist and Reitan the rationalist—debate the nature of an apple tree until their clash of sense and reason gives birth to a new understanding: transcendental idealism."
+excerpt: "In a dark cave, two lost travelers—Consen the empiricist and Reitan the rationalist—debate the nature of an apple tree until their clash of sense and reason gives birth to a new understanding."
 date: 2025-03-20
 layout: single
 author_profile: true
