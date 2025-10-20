@@ -1,5 +1,5 @@
 ---
-title: "Depression Therapy through Kristeva’s Theory of Abjection — The Phenomenon of Disgust in Anton Reiser"
+title: "Depression Therapy through Kristeva’s Theory of Abjection — The Phenomenon of Disgust in _Anton Reiser_"
 excerpt: "The essay argues that, in Kristeva’s theory, poetry’s fluid and deconstructive language opens a path for transforming loss and depression, whereas the novel’s rigid symbolic unity reinforces emotional stagnation and the illusion of wholeness."
 permalink: /criticalessays/abjection/
 date: 2025-02-25
