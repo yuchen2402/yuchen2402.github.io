@@ -195,7 +195,7 @@ collections:
   poetry:
     output: true
     permalink: /poetry/:path/
-  academic Papers 學術文章:
+  academicpapers:
     output: true
     permalink: /academic/:path/
 
