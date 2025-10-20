@@ -13,7 +13,7 @@ author_profile: true
 
 <!-- 图片画廊 -->
 <div class="gallery">
-  {% for work in site.artworks %}
+  {% for work in site.academic %}
     {% if work.image %}
       <div class="gallery-item">
         <a href="{{ work.image }}" data-lightbox="art-gallery" data-title="{{ work.caption | default: work.title }}">
