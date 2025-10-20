@@ -194,9 +194,9 @@ collections:
   criticalessays:
     output: true
     permalink: /criticalessays/:path/
-  prose:
+ academic:
     output: true
-    permalink: /prose/:path/
+    permalink: /:collection/:name/
   poetry:
     output: true
     permalink: /poetry/:path/
