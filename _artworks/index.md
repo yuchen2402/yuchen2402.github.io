@@ -76,11 +76,13 @@ author_profile: true
 document.addEventListener("DOMContentLoaded", function () {
   const zoomPreview = document.getElementById("zoomPreview");
 
+  // 循环检测 lightbox 是否打开
   function attachZoom() {
     const lightboxImage = document.querySelector(".lb-image");
     if (lightboxImage && !lightboxImage.hasZoomHandler) {
       lightboxImage.hasZoomHandler = true;
 
+      // 鼠标移动时更新细节视图
       lightboxImage.addEventListener("mousemove", function (event) {
         const rect = lightboxImage.getBoundingClientRect();
         const x = ((event.clientX - rect.left) / rect.width) * 100;
@@ -90,10 +92,18 @@ document.addEventListener("DOMContentLoaded", function () {
         zoomPreview.style.display = "block";
       });
 
+      // 鼠标离开隐藏
       lightboxImage.addEventListener("mouseleave", function () {
         zoomPreview.style.display = "none";
       });
     }
+  }
+
+  // 每 500ms 检查一次
+  setInterval(attachZoom, 500);
+});
+</script>
+
   }
 
   // 定时检测 Lightbox 是否出现
