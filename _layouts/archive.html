@@ -20,16 +20,16 @@ layout: default
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
 
-    {% assign current_path = page.url | replace: '/index.html', '' %}
-    {% if current_path == '/criticalessays' or current_path == '/criticalessays/' %}
-      <!-- 顯示內容但只渲染一次灰色說明 -->
-      {% if page.content contains '<p' %}
-        {{ page.content | split: '</p>' | slice: 1, 10 | join: '</p>' }}
-      {% else %}
-        {{ content }}
-      {% endif %}
-    {% else %}
-      {{ content }}
+    {% if page.url == "/criticalessays/" %}
+      <p style="color:#777; font-size:0.95em; margin-top:-10px;">
+        Independent reflections and essays on film and literature beyond formal coursework.
+      </p>
     {% endif %}
+
+    {% for post in site.criticalessays %}
+      {% include archive-single.html title=false %}
+    {% endfor %}
   </div>
+</div>
+
 </div>
