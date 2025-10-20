@@ -1,10 +1,11 @@
 ---
-layout: archive
+layout: single
 title: "Course Essays 課程論文"
 permalink: /coursepaper/
 author_profile: true
 ---
 
+<!-- ✅ 灰色说明放在循环之前 -->
 <div class="page__content" style="margin-bottom: 1.5em;">
   <p style="color:#777; font-size:0.95em; margin-top:-10px;">
     Essays written for coursework assessment during the MA programme.
