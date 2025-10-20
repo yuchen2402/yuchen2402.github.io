@@ -2,7 +2,6 @@
 layout: default
 title: "Novels and Poetry 小說/詩歌"
 permalink: /poetry/
-author_profile: true
 ---
 
 <div id="main" role="main">
