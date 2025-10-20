@@ -15,7 +15,4 @@ main:
     url: /poetry/    
     
   - title: "Art Works 藝術作品"
-    url: /academic/
-
-  - title: "CV 簡歷"
-    url: /cv/
+    url: /artworks/
