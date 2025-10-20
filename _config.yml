@@ -194,15 +194,13 @@ collections:
   criticalessays:
     output: true
     permalink: /criticalessays/:path/
- artworks:
-    output: true
-    permalink: /:collection/:name/
   poetry:
     output: true
     permalink: /poetry/:path/
-  academicpapers:
+  artworks:
     output: true
-    permalink: /academic/:path/
+    permalink: /:collection/:name/
+    
 
 
 # These settings control how pages and collections are included in the site
