@@ -1,16 +1,16 @@
 ---
 layout: single
 title: "Art Works 藝術作品"
-permalink: /academic/
+permalink: /artworks/
 author_profile: true
 ---
 
 <p style="color:#777; font-size:0.95em; margin-top:-10px; margin-bottom:25px;">
-  A selection of artworks and visual experiments created during the MA programme.
+  A selection of artworks and visual experiments created during the BA programme.
 </p>
 
 <div class="gallery">
-  {% for work in site.academic %}
+  {% for work in site.artworks %}
     {% if work.image %}
       <div class="gallery-item">
         <a href="{{ work.image }}" data-lightbox="art-gallery" data-title="{{ work.caption | default: work.title }}">
