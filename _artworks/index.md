@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p style="color:#777; font-size:0.95em; margin-top:-10px; margin-bottom:25px;">
-  A selection of artworks and visual experiments created during the BA programme.
+  A selection of artworks and visual experiments created during the MA programme.
 </p>
 
 <div class="gallery">
@@ -33,23 +33,19 @@ author_profile: true
   gap: 20px;
   margin-top: 25px;
 }
-
 .gallery-item {
   width: 30%;
   text-align: center;
 }
-
 .gallery-item img {
   width: 100%;
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
   transition: transform 0.2s ease;
 }
-
 .gallery-item img:hover {
   transform: scale(1.03);
 }
-
 .caption {
   font-size: 0.9em;
   color: #555;
