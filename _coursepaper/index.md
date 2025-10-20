@@ -1,13 +1,10 @@
 ---
 layout: archive
 title: "Course Essays 課程論文"
+subtitle: "Essays written for coursework assessment during the MA programme."
 permalink: /coursepaper/
 author_profile: true
 ---
-
-<p style="color:#777; font-size:0.95em; margin-top:-10px;">
-Essays written for coursework assessment during the MA programme.
-</p>
 
 {% include base_path %}
 
