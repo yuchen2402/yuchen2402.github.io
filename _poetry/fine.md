@@ -6,25 +6,29 @@ layout: single
 author_profile: true
 ---
 
-He sits at the pier,
-waiting for someone to ask hey, how are you.
-He answers fine, I am good,
-never adding and you.
+He sat on the pier,
+waiting for someone to ask, _Hey, how are you_?
+Then he’d say _fine, I’m good_—
+but never _and you_.
 
-Then the clock strikes twelve.
-He walks beside me.
-Rain keeps falling at our sides,
-and we say nothing.
+Later, when the clock struck twelve,
+he and I walked.
+Rain was everywhere,
+but we said nothing.
+Then he slowly crouched to the ground,
+pressed his face into the earth,
+rain filling his ears, his nose—
+but we said nothing.
 
-Then the clock strikes thirteen.
-I am still standing.
-He is face down on the ground.
-I want to ask hey, how are you,
-and we say nothing.
+Later, when the clock struck thirteen,
+I was still standing, he still lying there.
+I wanted to ask, Hey, how are you?
+But we said nothing.
 
-Then the clock strikes sixteen.
-I want the truth,
-so I press myself into the earth.
+Later, when the clock struck sixteen,
+I wanted to know the truth,
+so I buried myself in the earth too.
 
-Then the clock has no sound,
-and we still say nothing.
+Later,
+the clock had no sound,
+and we said nothing.
