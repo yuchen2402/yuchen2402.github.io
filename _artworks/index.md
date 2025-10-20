@@ -76,8 +76,7 @@ author_profile: true
 document.addEventListener("DOMContentLoaded", function () {
   const zoomPreview = document.getElementById("zoomPreview");
 
-  // 每当 lightbox 打开一张图片时，检测新生成的 .lb-image
-  const observer = new MutationObserver(() => {
+  function attachZoom() {
     const lightboxImage = document.querySelector(".lb-image");
     if (lightboxImage && !lightboxImage.hasZoomHandler) {
       lightboxImage.hasZoomHandler = true;
@@ -95,9 +94,9 @@ document.addEventListener("DOMContentLoaded", function () {
         zoomPreview.style.display = "none";
       });
     }
-  });
+  }
 
-  // 监听整个文档变化，当 Lightbox 打开时触发
-  observer.observe(document.body, { childList: true, subtree: true });
+  // 定时检测 Lightbox 是否出现
+  setInterval(attachZoom, 500);
 });
 </script>
