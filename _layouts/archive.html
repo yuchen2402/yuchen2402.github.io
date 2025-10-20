@@ -26,10 +26,13 @@ layout: default
       </p>
     {% endif %}
 
-    {% for post in site.criticalessays %}
-      {% include archive-single.html title=false %}
-    {% endfor %}
+    {% assign collection_name = page.collection | default: page.collection_name | default: 'posts' %}
+    {% if site[collection_name] %}
+      {% for post in site[collection_name] %}
+        {% include archive-single.html title=false %}
+      {% endfor %}
+    {% else %}
+      <p>No entries found in this section.</p>
+    {% endif %}
   </div>
-</div>
-
 </div>
