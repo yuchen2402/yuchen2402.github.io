@@ -5,13 +5,12 @@ permalink: /coursepaper/
 author_profile: true
 ---
 
-<!-- ✅ 灰色说明放在循环之前 -->
-<div class="page__content" style="margin-bottom: 1.5em;">
-  <p style="color:#777; font-size:0.95em; margin-top:-10px;">
-    Essays written for coursework assessment during the MA programme.
-  </p>
-</div>
+<!-- ✅ 灰色说明：位于标题下方 -->
+<p style="color:#777; font-size:0.95em; margin-top:-10px; margin-bottom:25px;">
+  Essays written for coursework assessment during the MA programme.
+</p>
 
+<!-- ✅ 循环部分 -->
 {% for post in site.coursepaper %}
   {% include archive-single.html title=false %}
 {% endfor %}
