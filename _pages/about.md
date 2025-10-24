@@ -1,13 +1,12 @@
 ---
 permalink: /
+title: Yuchen Xiong 熊羽辰
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Yuchen Xiong 熊羽辰
-======
 📧 k24024649@kcl.ac.uk  📱 +86 184 0772 7481
 Also known as Yuchen (/juːˈtʃɛn/)
 
